@@ -1,0 +1,48 @@
+[12-04-23 08:36:17.773] added connection index=0 192.168.1.190.
+[12-04-23 08:36:18.468] null "null" removed connection index=0.
+[12-04-23 08:36:59.411] added connection index=0 31.4.139.23.
+[12-04-23 08:37:01.191] null "null" removed connection index=0.
+[12-04-23 08:40:31.357] added connection index=0 89.131.193.21.
+[12-04-23 08:40:32.596] 76561198938953146 "Rodri" attempting to join.
+[12-04-23 08:40:32.599] 76561198938953146 "Rodri" was added.
+[12-04-23 08:40:32.600] 76561198938953146 "Rodri" allowed to join.
+[12-04-23 08:41:38.383] 76561198938953146 "Rodri" removed connection index=0.
+[12-04-23 09:10:27.432] added connection index=0 89.131.193.21.
+[12-04-23 09:10:28.432] 76561198938953146 "Rodri" attempting to join.
+[12-04-23 09:10:28.437] 76561198938953146 "Rodri" allowed to join.
+[12-04-23 09:10:55.285] 76561198938953146 "Rodri" removed connection index=0.
+[12-04-23 13:10:41.058] added connection index=0 192.168.1.190.
+[12-04-23 13:10:42.105] 76561198092295074 "Manu" attempting to join.
+[12-04-23 13:10:42.106] 76561198092295074 "Manu" allowed to join.
+[12-04-23 13:11:00.828] 76561198092295074 "Manu" attempting to join used queue.
+[12-04-23 13:11:25.760] player Manu loading time was: 23568 ms.
+[12-04-23 13:11:28.204] 76561198092295074 "Manu" fully connected (10910,9997,0).
+[12-04-23 13:14:20.341] user Manu died at (10868,9888,0) (non pvp).
+[12-04-23 13:14:36.149] 76561198092295074 "Manu" removed connection index=0.
+[12-04-23 13:14:36.161] 76561198092295074 "Manu" disconnected player (10868,9888,0).
+[13-04-23 19:21:14.335] added connection index=0 192.168.1.190.
+[13-04-23 19:21:15.687] 76561198092295074 "Manu" attempting to join.
+[13-04-23 19:21:15.688] 76561198092295074 "Manu" allowed to join.
+[13-04-23 19:34:35.407] 76561198092295074 "Manu" attempting to join used queue.
+[13-04-23 19:35:12.894] player Manu loading time was: 35848 ms.
+[13-04-23 19:35:39.599] 76561198092295074 "Manu" fully connected (10862,10247,0).
+[13-04-23 19:49:22.326] user Manu died at (10863,10247,0) (non pvp).
+[13-04-23 20:02:03.150] 76561198092295074 "Manu" removed connection index=0.
+[13-04-23 20:02:03.161] 76561198092295074 "Manu" disconnected player (10863,10247,0).
+[13-04-23 20:50:19.473] added connection index=0 192.168.1.190.
+[13-04-23 20:50:20.492] 76561198092295074 "Manu" attempting to join.
+[13-04-23 20:50:20.493] 76561198092295074 "Manu" allowed to join.
+[13-04-23 20:51:04.911] 76561198092295074 "Manu" attempting to join used queue.
+[13-04-23 20:51:19.359] player Manu loading time was: 13780 ms.
+[13-04-23 20:51:23.073] 76561198092295074 "Manu" fully connected (10803,10073,0).
+[13-04-23 21:04:06.562] added connection index=1 86.127.229.251.
+[13-04-23 21:04:07.490] 76561197980741579 "Lil Banano" attempting to join.
+[13-04-23 21:04:07.493] 76561197980741579 "Lil Banano" was added.
+[13-04-23 21:04:07.493] 76561197980741579 "Lil Banano" allowed to join.
+[13-04-23 21:11:34.445] 76561197980741579 "Lil Banano" attempting to join used queue.
+[13-04-23 21:11:42.686] player Lil Banano loading time was: 7951 ms.
+[13-04-23 21:11:43.755] 76561197980741579 "Lil Banano" fully connected (10803,10073,0).
+[13-04-23 22:03:04.158] 76561198092295074 "Manu" removed connection index=0.
+[13-04-23 22:03:04.169] 76561198092295074 "Manu" disconnected player (10879,10158,0).
+[13-04-23 22:22:11.481] 76561197980741579 "Lil Banano" removed connection index=1.
+[13-04-23 22:22:11.495] 76561197980741579 "Lil Banano" disconnected player (10879,10158,0).

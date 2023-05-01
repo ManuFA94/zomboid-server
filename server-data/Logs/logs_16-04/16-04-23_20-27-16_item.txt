@@ -1,0 +1,118 @@
+[16-04-23 20:27:16.605] 76561198092295074 "Manu" container -1 8324,11813,0 [Base.Pan].
+[16-04-23 20:27:22.545] 76561198092295074 "Manu" container -1 8327,11813,0 [Base.BreadKnife].
+[16-04-23 20:27:40.537] 76561198092295074 "Manu" container -1 8332,11816,0 [Base.Tshirt_PoloStripedTINT].
+[16-04-23 20:27:43.546] 76561198092295074 "Manu" container -1 8332,11816,0 [Base.Socks_Ankle].
+[16-04-23 20:28:23.128] 76561198152792799 "Marcos" container -3 8204,11598,1 [Base.Notebook, Base.Book, Base.RedPen].
+[16-04-23 20:28:26.133] 76561198152792799 "Marcos" container -1 8204,11598,1 [Base.BookMechanic2].
+[16-04-23 20:28:29.150] 76561198152792799 "Marcos" container -1 8204,11598,1 [Base.SheetPaper2].
+[16-04-23 20:29:21.920] 76561198092295074 "Manu" floor +1 8259,11847,0 [Base.MetalBar].
+[16-04-23 20:29:21.921] 76561198092295074 "Manu" floor +1 8259,11847,0 [Base.MetalPipe].
+[16-04-23 20:29:21.921] 76561198092295074 "Manu" floor +1 8259,11847,0 [Base.Doorknob].
+[16-04-23 20:29:21.921] 76561198092295074 "Manu" floor +1 8259,11847,0 [Base.Hinge].
+[16-04-23 20:29:21.926] 76561198092295074 "Manu" floor +1 8259,11846,0 [Base.MetalBar].
+[16-04-23 20:29:21.927] 76561198092295074 "Manu" floor +1 8259,11846,0 [Base.Doorknob].
+[16-04-23 20:29:49.519] 76561198092295074 "Manu" floor +1 8259,11848,0 [Base.MetalBar].
+[16-04-23 20:29:49.520] 76561198092295074 "Manu" floor +1 8259,11848,0 [Base.MetalPipe].
+[16-04-23 20:29:49.520] 76561198092295074 "Manu" floor +1 8259,11848,0 [Base.Doorknob].
+[16-04-23 20:29:49.520] 76561198092295074 "Manu" floor +1 8259,11848,0 [Base.Hinge].
+[16-04-23 20:29:49.521] 76561198092295074 "Manu" floor +1 8259,11848,0 [Base.Hinge].
+[16-04-23 20:29:49.521] 76561198092295074 "Manu" floor +1 8259,11849,0 [Base.Doorknob].
+[16-04-23 20:29:49.522] 76561198092295074 "Manu" floor +1 8259,11849,0 [Base.Hinge].
+[16-04-23 20:29:49.522] 76561198092295074 "Manu" floor +1 8259,11849,0 [Base.Hinge].
+[16-04-23 20:29:50.185] 76561198092295074 "Manu" floor +1 8239,11817,0 [Base.Glasses_Reading].
+[16-04-23 20:31:03.605] 76561198092295074 "Manu" floor +1 8232,11816,0 [Base.UnusableWood].
+[16-04-23 20:31:03.606] 76561198092295074 "Manu" floor +1 8232,11816,0 [Base.Doorknob].
+[16-04-23 20:31:03.606] 76561198092295074 "Manu" floor +1 8232,11816,0 [Base.Hinge].
+[16-04-23 20:31:03.607] 76561198092295074 "Manu" floor +1 8232,11816,0 [Base.Hinge].
+[16-04-23 20:31:46.786] 76561198152792799 "Marcos" floor +1 8229,11589,0 [Base.Hat_Visor_WhiteTINT].
+[16-04-23 20:33:53.119] 76561198092295074 "Manu" floor +1 8294,12021,0 [Base.Pan].
+[16-04-23 20:35:10.530] 76561198092295074 "Manu" container -1 8077,11722,0 [Base.RedPen].
+[16-04-23 20:35:13.531] 76561198092295074 "Manu" container -1 8077,11722,0 [Base.Paperclip].
+[16-04-23 20:38:35.143] 76561198152792799 "Marcos" container -1 8247,11670,0 [Base.BookCarpentry1].
+[16-04-23 20:38:38.145] 76561198152792799 "Marcos" container -3 8247,11670,0 [Base.BookFishing1, Base.Pencil, Base.BookCarpentry2].
+[16-04-23 20:38:41.150] 76561198152792799 "Marcos" container -3 8247,11670,0 [Base.BookFishing2, Base.Magazine, Base.VHS_Retail].
+[16-04-23 20:39:47.145] 76561198152792799 "Marcos" container -1 8250,11668,0 [Base.Disc_Retail].
+[16-04-23 20:39:49.596] 76561198092295074 "Manu" container -1 8420,11688,0 [Base.PillsVitamins].
+[16-04-23 20:39:50.146] 76561198152792799 "Marcos" container -3 8250,11668,0 [Base.BookMechanic4, Base.RedPen, Radio.CDplayer].
+[16-04-23 20:39:53.140] 76561198152792799 "Marcos" container -2 8250,11668,0 [Base.VHS_Retail].
+[16-04-23 20:39:56.150] 76561198152792799 "Marcos" container -1 8250,11668,0 [Base.Magazine].
+[16-04-23 20:39:59.146] 76561198152792799 "Marcos" container -2 8251,11668,0 [Base.BluePen, Base.BookForaging1].
+[16-04-23 20:40:02.138] 76561198152792799 "Marcos" container -4 8251,11668,0 [Base.Book, Base.MagazineCrossword3].
+[16-04-23 20:40:07.613] 76561198092295074 "Manu" container -1 8414,11680,0 [Base.Tissue].
+[16-04-23 20:40:10.518] 76561198092295074 "Manu" container -2 8414,11680,0 [Base.Pen, Base.PillsSleepingTablets].
+[16-04-23 20:40:43.514] 76561198092295074 "Manu" container -1 8414,11681,0 [Base.Shotgun].
+[16-04-23 20:40:46.578] 76561198092295074 "Manu" container -24 8414,11681,0 [Base.ShotgunShells].
+[16-04-23 20:40:49.599] 76561198092295074 "Manu" container -2 8414,11681,0 [Base.Screwdriver, Base.Rope].
+[16-04-23 20:40:58.605] 76561198092295074 "Manu" container -1 8419,11689,0 [Base.MugRed].
+[16-04-23 20:41:04.513] 76561198092295074 "Manu" container -1 8419,11689,0 [Base.DishCloth].
+[16-04-23 20:41:11.147] 76561198152792799 "Marcos" container -3 8243,11669,0 [Base.Corn, Base.BeerCan, Base.Cheese].
+[16-04-23 20:41:14.142] 76561198152792799 "Marcos" container -2 8243,11669,0 [Base.Carrots, Base.Grapes].
+[16-04-23 20:41:53.137] 76561198152792799 "Marcos" container -1 8240,11676,0 [Base.Screwdriver].
+[16-04-23 20:42:05.138] 76561198152792799 "Marcos" container -1 8239,11676,0 [Base.MetalPipe].
+[16-04-23 20:42:08.139] 76561198152792799 "Marcos" container -3 8239,11676,0 [Base.MetalPipe, Base.ScrapMetal, Base.SmallSheetMetal].
+[16-04-23 20:42:13.149] 76561198092295074 "Manu" floor +1 8414,11683,0 [Base.UnusableWood].
+[16-04-23 20:42:13.149] 76561198092295074 "Manu" floor +1 8414,11683,0 [Base.Doorknob].
+[16-04-23 20:42:13.150] 76561198092295074 "Manu" floor +1 8414,11683,0 [Base.Hinge].
+[16-04-23 20:42:13.150] 76561198092295074 "Manu" floor +1 8414,11683,0 [Base.Hinge].
+[16-04-23 20:42:18.624] 76561198152792799 "Marcos" floor +1 8238,11676,0 [Base.Glasses_Sun].
+[16-04-23 20:42:40.238] 76561198092295074 "Manu" floor +1 8415,11654,0 [Base.Hat_Beret].
+[16-04-23 20:43:29.136] 76561198152792799 "Marcos" container -1 8206,11628,0 [Base.Banana].
+[16-04-23 20:43:30.790] 76561198152792799 "Marcos" floor +1 8206,11629,0 [Base.Screwdriver].
+[16-04-23 20:47:02.133] 76561198152792799 "Marcos" container -2 8070,11738,0 [Base.PaperclipBox, Base.RubberBand].
+[16-04-23 20:47:05.136] 76561198152792799 "Marcos" container -2 8070,11738,0 [Base.SheetPaper2, Base.MagazineCrossword1].
+[16-04-23 20:48:35.145] 76561198152792799 "Marcos" container -22 8075,11733,0 [Base.Glasses_Aviators, Base.WhiskeyFull, Base.Cigarettes].
+[16-04-23 20:48:41.145] 76561198152792799 "Marcos" container -2 8072,11733,0 [Base.PaperclipBox, Base.SheetPaper2].
+[16-04-23 20:48:44.142] 76561198152792799 "Marcos" container -1 8072,11733,0 [Base.Nightstick].
+[16-04-23 20:48:50.149] 76561198152792799 "Marcos" container -20 8070,11735,0 [Base.Cigarettes].
+[16-04-23 20:48:53.148] 76561198152792799 "Marcos" container -3 8070,11735,0 [Base.Nightstick, Base.RubberBand, Base.Pencil].
+[16-04-23 20:49:02.149] 76561198152792799 "Marcos" container -4 8066,11737,0 [Base.Eraser, Base.Matches, Base.Comb, Base.Toothbrush].
+[16-04-23 20:49:05.154] 76561198152792799 "Marcos" container -1 8066,11737,0 [Base.MagazineCrossword2].
+[16-04-23 20:49:20.264] 76561198152792799 "Marcos" container -6 8075,11730,0 [Base.Glasses_Aviators, Base.Magazine, Base.PaperclipBox, Base.Eraser, Base.SheetPaper2].
+[16-04-23 20:49:27.890] 76561198152792799 "Marcos" container -4 8075,11727,0 [Base.RubberBand, Base.SheetPaper2, Base.BluePen].
+[16-04-23 20:49:29.148] 76561198152792799 "Marcos" container -2 8075,11727,0 [Base.Magazine, Base.MagazineCrossword3].
+[16-04-23 20:49:53.158] 76561198152792799 "Marcos" container -4 8075,11723,0 [Base.Paperclip, Base.Pencil, Base.RedPen, Base.MagazineWordsearch1].
+[16-04-23 20:50:16.510] 76561198092295074 "Manu" container -20 8079,11644,1 [Base.Cigarettes].
+[16-04-23 20:50:53.728] 76561198152792799 "Marcos" floor +1 8052,11664,0 [Base.SheetMetal].
+[16-04-23 20:50:53.729] 76561198152792799 "Marcos" floor +1 8052,11664,0 [Base.Doorknob].
+[16-04-23 20:50:53.729] 76561198152792799 "Marcos" floor +1 8052,11664,0 [Base.Hinge].
+[16-04-23 20:50:53.730] 76561198152792799 "Marcos" floor +1 8052,11664,0 [Base.Hinge].
+[16-04-23 20:52:34.533] 76561198152792799 "Marcos" floor +1 8111,11692,0 [Base.Hat_BaseballCapKY].
+[16-04-23 20:52:38.637] 76561198092295074 "Manu" floor +1 8111,11692,0 [Base.Hat_BaseballCapKY].
+[16-04-23 20:53:59.152] 76561198152792799 "Marcos" container -1 8136,11681,0 [Base.WaterBottleFull].
+[16-04-23 20:54:02.157] 76561198152792799 "Marcos" container -2 8136,11681,0 [Base.Corn, Base.Yoghurt].
+[16-04-23 20:54:13.510] 76561198092295074 "Manu" container -1 8128,11678,1 [Base.Vest_DefaultTEXTURE_TINT].
+[16-04-23 20:54:16.586] 76561198092295074 "Manu" container -1 8128,11678,1 [Base.Socks_Ankle].
+[16-04-23 20:54:21.550] 76561198092295074 "Manu" floor +1 8075,11649,1 [Base.UnusableWood].
+[16-04-23 20:54:21.551] 76561198092295074 "Manu" floor +1 8075,11649,1 [Base.Doorknob].
+[16-04-23 20:54:46.514] 76561198092295074 "Manu" container -1 8131,11674,1 [Base.Bag_DuffelBagTINT].
+[16-04-23 20:54:47.170] 76561198152792799 "Marcos" container -1 8136,11678,1 [Base.PillsVitamins].
+[16-04-23 20:55:14.149] 76561198152792799 "Marcos" container -1 8136,11672,1 [Base.Tissue].
+[16-04-23 20:55:17.167] 76561198152792799 "Marcos" container -1 8136,11672,1 [Base.PillsSleepingTablets].
+[16-04-23 20:55:20.154] 76561198152792799 "Marcos" container -1 8136,11672,1 [Base.Magazine].
+[16-04-23 20:56:32.161] 76561198152792799 "Marcos" container -1 8131,11673,1 [Base.Tshirt_DefaultDECAL_TINT].
+[16-04-23 20:56:35.163] 76561198152792799 "Marcos" container -2 8131,11673,1 [Base.Vest_DefaultTEXTURE_TINT, Base.RifleCase3].
+[16-04-23 20:56:38.150] 76561198152792799 "Marcos" container -2 8131,11673,1 [Base.Gloves_FingerlessGloves, Base.Trousers_Shellsuit_Black].
+[16-04-23 20:57:28.511] 76561198092295074 "Manu" container -1 8136,11677,0 [Base.MugRed].
+[16-04-23 20:57:58.540] 76561198092295074 "Manu" container -1 8128,11680,0 [Base.RippedSheets].
+[16-04-23 20:58:02.156] 76561198152792799 "Marcos" container -2 8131,11674,1 [Base.Bra_Straps_Black, Base.StockingsBlackSemiTrans].
+[16-04-23 20:58:15.973] 76561198152792799 "Marcos" floor +1 8130,11676,1 [Base.Nightstick].
+[16-04-23 20:58:20.806] 76561198092295074 "Manu" floor -1 8130,11676,1 [Base.Nightstick].
+[16-04-23 20:58:26.094] 76561198152792799 "Marcos" floor +1 8130,11676,1 [Base.MagazineWordsearch1].
+[16-04-23 20:58:28.670] 76561198152792799 "Marcos" floor +1 8130,11676,1 [Base.MagazineCrossword1].
+[16-04-23 20:58:28.690] 76561198152792799 "Marcos" floor +1 8130,11676,1 [Base.MagazineCrossword2].
+[16-04-23 20:58:28.736] 76561198152792799 "Marcos" floor +1 8130,11676,1 [Base.MagazineCrossword3].
+[16-04-23 20:58:32.874] 76561198152792799 "Marcos" floor +1 8130,11676,1 [Base.Comb].
+[16-04-23 20:58:42.349] 76561198152792799 "Marcos" floor +1 8130,11676,1 [Base.Pencil].
+[16-04-23 20:58:42.350] 76561198152792799 "Marcos" floor +1 8130,11676,1 [Base.Pencil].
+[16-04-23 20:58:53.734] 76561198152792799 "Marcos" floor +1 8130,11676,1 [Base.RubberBand].
+[16-04-23 20:58:53.735] 76561198152792799 "Marcos" floor +1 8130,11676,1 [Base.RubberBand].
+[16-04-23 20:58:53.736] 76561198152792799 "Marcos" floor +1 8130,11676,1 [Base.RubberBand].
+[16-04-23 20:59:30.613] 76561198152792799 "Marcos" floor +1 8130,11676,1 [Base.Glasses_Aviators].
+[16-04-23 20:59:37.110] 76561198152792799 "Marcos" floor +1 8130,11676,1 [Base.Toothbrush].
+[16-04-23 21:01:48.494] 76561198152792799 "Marcos" floor +1 8130,11641,0 [Base.Hat_Visor_WhiteTINT].
+[16-04-23 21:01:50.373] 76561198152792799 "Marcos" floor +1 8130,11641,0 [Base.Glasses_Aviators].
+[16-04-23 21:01:52.556] 76561198092295074 "Manu" floor +1 8130,11642,0 [Base.Glasses_Reading].
+[16-04-23 21:02:18.636] 76561198092295074 "Manu" floor +1 8124,11643,0 [Base.Glasses_Sun].
+[16-04-23 21:02:40.798] 76561198152792799 "Marcos" floor +1 8124,11643,0 [Base.Glasses_Sun].
+[16-04-23 21:02:59.553] 76561198152792799 "Marcos" floor +1 8127,11644,0 [Base.Nightstick].
+[16-04-23 21:03:05.028] 76561198092295074 "Manu" floor +1 8126,11643,0 [Base.Nightstick].

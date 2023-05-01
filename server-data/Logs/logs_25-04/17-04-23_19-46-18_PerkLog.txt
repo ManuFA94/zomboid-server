@@ -1,0 +1,7 @@
+[17-04-23 19:46:18.677] [76561198151521901][David][8208,11600,0][Login][Hours Survived: 0].
+[17-04-23 19:46:18.677] [76561198151521901][David][8208,11600,0][Cooking=0, Fitness=6, Strength=5, Blunt=1, Axe=1, Sprinting=0, Lightfoot=2, Nimble=2, Sneak=2, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[17-04-23 19:54:03.497] [76561198151521901][David][8209,11566,0][Died][Hours Survived: 3].
+[18-04-23 11:59:54.873] [76561198129005219][Jaime][8246,11670,0][Login][Hours Survived: 0].
+[18-04-23 11:59:54.873] [76561198129005219][Jaime][8246,11670,0][Cooking=0, Fitness=6, Strength=7, Blunt=0, Axe=0, Sprinting=0, Lightfoot=2, Nimble=2, Sneak=2, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[18-04-23 12:28:34.404] [76561198129005219][Jaime][8217,11634,0][Login][Hours Survived: 0].
+[18-04-23 12:28:34.404] [76561198129005219][Jaime][8217,11634,0][Cooking=0, Fitness=6, Strength=7, Blunt=0, Axe=0, Sprinting=0, Lightfoot=2, Nimble=2, Sneak=2, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].

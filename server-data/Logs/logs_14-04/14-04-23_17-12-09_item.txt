@@ -1,0 +1,27 @@
+[14-04-23 17:12:09.497] 76561198938953146 "Rodri" container -2 10911,9997,0 [Base.Banana, Base.Onion].
+[14-04-23 17:12:12.493] 76561198938953146 "Rodri" container -2 10911,9997,0 [Base.Cheese, farming.MayonnaiseFull].
+[14-04-23 17:12:33.487] 76561198938953146 "Rodri" container -1 10909,10000,0 [Base.KitchenKnife].
+[14-04-23 17:12:36.486] 76561198938953146 "Rodri" container -1 10909,10000,0 [Base.DishCloth].
+[14-04-23 17:14:12.489] 76561198938953146 "Rodri" container -3 10910,9993,0 [Base.Magazine, Base.BookCooking1].
+[14-04-23 17:15:14.617] 76561198092295074 "Manu" container +0 10882,10164,0 [Moveables.brokenglass_1_2].
+[14-04-23 17:15:36.490] 76561198938953146 "Rodri" container -1 10913,9990,0 [Base.Revolver_Short].
+[14-04-23 17:15:39.491] 76561198938953146 "Rodri" container -10 10913,9990,0 [Base.Bullets38].
+[14-04-23 17:16:26.610] 76561198092295074 "Manu" container -1 10858,10140,0 [Base.HolsterSimple].
+[14-04-23 17:16:37.228] 76561198092295074 "Manu" floor +1 10865,10141,0 [Base.Hat_BandanaMaskTINT].
+[14-04-23 17:16:37.229] 76561198092295074 "Manu" floor +1 10865,10141,0 [Base.Glasses_Aviators].
+[14-04-23 17:16:53.616] 76561198092295074 "Manu" container -1 10858,10140,0 [Base.Nightstick].
+[14-04-23 17:16:59.622] 76561198092295074 "Manu" container -1 10858,10140,0 [Base.Revolver].
+[14-04-23 17:19:33.503] 76561198938953146 "Rodri" container -1 10811,10019,0 [Base.Bag_Satchel].
+[14-04-23 17:20:06.503] 76561198938953146 "Rodri" container -1 10805,10022,0 [Base.Apple].
+[14-04-23 17:20:15.498] 76561198938953146 "Rodri" container -4 10805,10022,0 [farming.Cabbage, Base.Onion, Base.Apple, Base.Cheese].
+[14-04-23 17:20:30.519] 76561198938953146 "Rodri" container -5 10803,10020,0 [Base.CannedCornedBeef, Base.CannedCorn, Base.CannedSardines, Base.TinnedBeans, Base.TomatoPaste].
+[14-04-23 17:20:32.606] 76561198092295074 "Manu" container -1 10885,10146,0 [Base.WristWatch_Left_DigitalBlack].
+[14-04-23 17:20:45.507] 76561198938953146 "Rodri" container -1 10807,10016,0 [Base.BookCarpentry1].
+[14-04-23 17:22:08.934] 76561198092295074 "Manu" floor +1 10889,10163,0 [Base.Hat_Beret].
+[14-04-23 17:22:15.289] 76561198092295074 "Manu" floor +1 10889,10163,0 [Base.Glasses_Normal].
+[14-04-23 17:25:00.823] 76561198092295074 "Manu" floor +1 10889,10156,0 [Base.Glasses_Normal].
+[14-04-23 17:27:16.222] 76561198092295074 "Manu" floor +1 10881,10155,0 [Base.UnusableWood].
+[14-04-23 17:27:16.223] 76561198092295074 "Manu" floor +1 10881,10155,0 [Base.Doorknob].
+[14-04-23 17:27:16.223] 76561198092295074 "Manu" floor +1 10881,10155,0 [Base.Hinge].
+[14-04-23 17:27:16.224] 76561198092295074 "Manu" floor +1 10881,10155,0 [Base.Sheet].
+[14-04-23 17:27:23.600] 76561198092295074 "Manu" container -1 10882,10164,0 [Base.Vest_DefaultTEXTURE_TINT].

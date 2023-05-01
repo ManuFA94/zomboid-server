@@ -1,0 +1,26 @@
+[17-04-23 19:40:18.734] added connection index=0 192.168.1.186.
+[17-04-23 19:40:19.730] 76561198151521901 "David" attempting to join.
+[17-04-23 19:40:19.730] 76561198151521901 "David" allowed to join.
+[17-04-23 19:45:54.741] 76561198151521901 "David" attempting to join used queue.
+[17-04-23 19:46:05.019] player David loading time was: 9861 ms.
+[17-04-23 19:46:18.277] 76561198151521901 "David" fully connected (8208,11600,0).
+[17-04-23 19:54:03.502] user David died at (8209,11566,0) (non pvp).
+[17-04-23 19:54:09.862] 76561198151521901 "David" removed connection index=0.
+[17-04-23 19:54:09.874] 76561198151521901 "David" disconnected player (8209,11566,0).
+[18-04-23 11:53:57.042] added connection index=0 89.131.193.21.
+[18-04-23 11:53:58.081] 76561198129005219 "Jaime" attempting to join.
+[18-04-23 11:53:58.098] 76561198129005219 "Jaime" was added.
+[18-04-23 11:53:58.098] 76561198129005219 "Jaime" allowed to join.
+[18-04-23 11:59:25.598] 76561198129005219 "Jaime" attempting to join used queue.
+[18-04-23 11:59:46.126] player Jaime loading time was: 19917 ms.
+[18-04-23 11:59:53.986] 76561198129005219 "Jaime" fully connected (8246,11670,0).
+[18-04-23 12:01:55.831] 76561198129005219 "Jaime" removed connection index=0.
+[18-04-23 12:01:55.845] 76561198129005219 "Jaime" disconnected player (8217,11634,0).
+[18-04-23 12:27:58.864] added connection index=0 89.131.193.21.
+[18-04-23 12:27:59.941] 76561198129005219 "Jaime" attempting to join.
+[18-04-23 12:27:59.950] 76561198129005219 "Jaime" allowed to join.
+[18-04-23 12:28:10.879] 76561198129005219 "Jaime" attempting to join used queue.
+[18-04-23 12:28:29.817] player Jaime loading time was: 18051 ms.
+[18-04-23 12:28:33.153] 76561198129005219 "Jaime" fully connected (8217,11634,0).
+[18-04-23 12:31:44.479] 76561198129005219 "Jaime" removed connection index=0.
+[18-04-23 12:31:44.490] 76561198129005219 "Jaime" disconnected player (8219,11634,0).

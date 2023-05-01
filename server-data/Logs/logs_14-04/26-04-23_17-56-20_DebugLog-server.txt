@@ -1,0 +1,201 @@
+[26-04-23 17:56:20.854] LOG  : General     , 1682531780854> 67,193> cachedir set to "/home/linuxgsm/Zomboid".
+[26-04-23 17:56:20.933] LOG  : General     , 1682531780933> 67,273> version=41.78.16 demo=false.
+[26-04-23 17:56:20.934] LOG  : General     , 1682531780934> 67,273> revision= date= time=.
+[26-04-23 17:56:20.934] LOG  : General     , 1682531780934> 67,273> unknown option "--ip".
+[26-04-23 17:56:20.934] LOG  : General     , 1682531780934> 67,273> unknown option "172.26.0.2".
+[26-04-23 17:56:20.936] LOG  : General     , 1682531780936> 67,276> server name is "uoasi_gorditos".
+[26-04-23 17:56:20.937] LOG  : General     , 1682531780937> 67,276> checking server WorldVersion in map_t.bin.
+[26-04-23 17:56:20.938] LOG  : General     , 1682531780938> 67,277> Loading networking libraries....
+[26-04-23 17:56:20.939] LOG  : General     , 1682531780938> 67,278> Loading steam_api....
+[26-04-23 17:56:20.939] LOG  : General     , 1682531780939> 67,278> Loading RakNet64....
+[26-04-23 17:56:20.942] LOG  : General     , 1682531780942> 67,281> Loading ZNetJNI64....
+[26-04-23 17:56:20.946] LOG  : Network     , 1682531780946> 67,285> [26-04-23 17:56:20.946] > ZNet: SetLogLevel 2.
+[26-04-23 17:56:20.948] LOG  : Network     , 1682531780947> 67,287> [26-04-23 17:56:20.947] > ZNet: SteamAPI initialised successfully.
+[26-04-23 17:56:20.948] LOG  : General     , 1682531780948> 67,287> SteamUtils initialised successfully.
+[26-04-23 17:56:21.335] LOG  : General     , 1682531781335> 67,674> translator: language is EN.
+[26-04-23 17:56:21.460] LOG  : General     , 1682531781460> 67,799> LightingFPS set to 15.
+[26-04-23 17:56:21.473] LOG  : General     , 1682531781472> 67,812> reading /home/linuxgsm/Zomboid/Server/uoasi_gorditos.ini.
+[26-04-23 17:56:21.474] LOG  : General     , 1682531781474> 67,813> writing /home/linuxgsm/Zomboid/Server/uoasi_gorditos.ini.
+[26-04-23 17:56:21.481] LOG  : Network     , 1682531781480> 67,820> [26-04-23 17:56:21.480] > ZNet: SZombienet -> SZombienet: Init.
+[26-04-23 17:56:21.600] LOG  : Network     , 1682531781599> 67,939> [26-04-23 17:56:21.599] > ZNet: SteamGameServer seems to be initialized.
+[26-04-23 17:56:21.601] LOG  : Network     , 1682531781601> 67,940> [26-04-23 17:56:21.600] > ZNet: SZombienet -> SSteamSDK: SetMaxPlayerCount.
+[26-04-23 17:56:21.604] LOG  : General     , 1682531781604> 67,943> Waiting for response from Steam servers.
+[26-04-23 17:56:22.606] LOG  : Network     , 1682531782606> 68,946> [26-04-23 17:56:22.606] > ZNet: SSteamSDK -> SZombienet: OnSteamServersConnected.
+[26-04-23 17:56:22.607] LOG  : Network     , 1682531782607> 68,946> [26-04-23 17:56:22.607] > ZNet: OnSteamServersConnected.
+[26-04-23 17:56:22.607] LOG  : Network     , 1682531782607> 68,946> [26-04-23 17:56:22.607] > ZNet: SZombienet -> SSteamSDK: SetMaxPlayerCount.
+[26-04-23 17:56:22.607] LOG  : Network     , 1682531782607> 68,947> [26-04-23 17:56:22.607] > ZNet: Public IP: 47.62.2.92.
+[26-04-23 17:56:22.810] LOG  : Network     , 1682531782810> 69,149> [26-04-23 17:56:22.810] > ZNet: SSteamSDK -> SZombienet: OnPolicyResponse.
+[26-04-23 17:56:22.810] LOG  : Network     , 1682531782810> 69,150> [26-04-23 17:56:22.810] > ZNet: OnPolicyResponse.
+[26-04-23 17:56:22.811] LOG  : Network     , 1682531782811> 69,150> [26-04-23 17:56:22.811] > ZNet: SZombienet -> SSteamSDK: BSecure.
+[26-04-23 17:56:22.811] LOG  : Network     , 1682531782811> 69,150> [26-04-23 17:56:22.811] > ZNet: Zomboid Server is VAC Secure.
+[26-04-23 17:56:22.917] LOG  : General     , 1682531782917> 69,256> Workshop: onItemQueryCompleted handle=1 numResult=38.
+[26-04-23 17:56:22.930] LOG  : General     , 1682531782929> 69,269> Workshop: GetItemState()=Installed ID=2753894806.
+[26-04-23 17:56:22.933] LOG  : General     , 1682531782933> 69,272> Workshop: item state CheckItemState -> Ready ID=2753894806.
+[26-04-23 17:56:22.934] LOG  : General     , 1682531782934> 69,273> Workshop: GetItemState()=Installed ID=2071347174.
+[26-04-23 17:56:22.934] LOG  : General     , 1682531782934> 69,273> Workshop: item state CheckItemState -> Ready ID=2071347174.
+[26-04-23 17:56:22.934] LOG  : General     , 1682531782934> 69,274> Workshop: GetItemState()=Installed ID=2808679062.
+[26-04-23 17:56:22.935] LOG  : General     , 1682531782935> 69,274> Workshop: item state CheckItemState -> Ready ID=2808679062.
+[26-04-23 17:56:22.935] LOG  : General     , 1682531782935> 69,274> Workshop: GetItemState()=Installed ID=2594865484.
+[26-04-23 17:56:22.935] LOG  : General     , 1682531782935> 69,275> Workshop: item state CheckItemState -> Ready ID=2594865484.
+[26-04-23 17:56:22.936] LOG  : General     , 1682531782936> 69,275> Workshop: GetItemState()=Installed ID=2313387159.
+[26-04-23 17:56:22.936] LOG  : General     , 1682531782936> 69,275> Workshop: item state CheckItemState -> Ready ID=2313387159.
+[26-04-23 17:56:22.937] LOG  : General     , 1682531782936> 69,276> Workshop: GetItemState()=Installed ID=2368058459.
+[26-04-23 17:56:22.937] LOG  : General     , 1682531782937> 69,276> Workshop: item state CheckItemState -> Ready ID=2368058459.
+[26-04-23 17:56:22.937] LOG  : General     , 1682531782937> 69,276> Workshop: GetItemState()=Installed ID=1759532925.
+[26-04-23 17:56:22.938] LOG  : General     , 1682531782938> 69,277> Workshop: item state CheckItemState -> Ready ID=1759532925.
+[26-04-23 17:56:22.938] LOG  : General     , 1682531782938> 69,277> Workshop: GetItemState()=Installed ID=2736059670.
+[26-04-23 17:56:22.938] LOG  : General     , 1682531782938> 69,277> Workshop: item state CheckItemState -> Ready ID=2736059670.
+[26-04-23 17:56:22.939] LOG  : General     , 1682531782939> 69,278> Workshop: GetItemState()=Installed ID=2711057211.
+[26-04-23 17:56:22.939] LOG  : General     , 1682531782939> 69,278> Workshop: item state CheckItemState -> Ready ID=2711057211.
+[26-04-23 17:56:22.939] LOG  : General     , 1682531782939> 69,278> Workshop: GetItemState()=Installed ID=2763647806.
+[26-04-23 17:56:22.940] LOG  : General     , 1682531782939> 69,279> Workshop: item state CheckItemState -> Ready ID=2763647806.
+[26-04-23 17:56:22.940] LOG  : General     , 1682531782940> 69,279> Workshop: GetItemState()=Installed ID=2804531012.
+[26-04-23 17:56:22.940] LOG  : General     , 1682531782940> 69,279> Workshop: item state CheckItemState -> Ready ID=2804531012.
+[26-04-23 17:56:22.940] LOG  : General     , 1682531782940> 69,280> Workshop: GetItemState()=Installed ID=2701170568.
+[26-04-23 17:56:22.941] LOG  : General     , 1682531782941> 69,280> Workshop: item state CheckItemState -> Ready ID=2701170568.
+[26-04-23 17:56:22.941] LOG  : General     , 1682531782941> 69,280> Workshop: GetItemState()=Installed ID=2717575749.
+[26-04-23 17:56:22.941] LOG  : General     , 1682531782941> 69,281> Workshop: item state CheckItemState -> Ready ID=2717575749.
+[26-04-23 17:56:22.942] LOG  : General     , 1682531782942> 69,281> Workshop: GetItemState()=Installed ID=2447729538.
+[26-04-23 17:56:22.942] LOG  : General     , 1682531782942> 69,281> Workshop: item state CheckItemState -> Ready ID=2447729538.
+[26-04-23 17:56:22.942] LOG  : General     , 1682531782942> 69,282> Workshop: GetItemState()=Installed ID=2616986064.
+[26-04-23 17:56:22.943] LOG  : General     , 1682531782943> 69,282> Workshop: item state CheckItemState -> Ready ID=2616986064.
+[26-04-23 17:56:22.943] LOG  : General     , 1682531782943> 69,282> Workshop: GetItemState()=Installed ID=2688538916.
+[26-04-23 17:56:22.943] LOG  : General     , 1682531782943> 69,282> Workshop: item state CheckItemState -> Ready ID=2688538916.
+[26-04-23 17:56:22.944] LOG  : General     , 1682531782943> 69,283> Workshop: GetItemState()=Installed ID=2732662310.
+[26-04-23 17:56:22.944] LOG  : General     , 1682531782944> 69,283> Workshop: item state CheckItemState -> Ready ID=2732662310.
+[26-04-23 17:56:22.944] LOG  : General     , 1682531782944> 69,283> Workshop: GetItemState()=Installed ID=2715911680.
+[26-04-23 17:56:22.944] LOG  : General     , 1682531782944> 69,284> Workshop: item state CheckItemState -> Ready ID=2715911680.
+[26-04-23 17:56:22.945] LOG  : General     , 1682531782945> 69,284> Workshop: GetItemState()=Installed ID=2710167561.
+[26-04-23 17:56:22.945] LOG  : General     , 1682531782945> 69,284> Workshop: item state CheckItemState -> Ready ID=2710167561.
+[26-04-23 17:56:22.945] LOG  : General     , 1682531782945> 69,285> Workshop: GetItemState()=Installed ID=2734705913.
+[26-04-23 17:56:22.946] LOG  : General     , 1682531782946> 69,285> Workshop: item state CheckItemState -> Ready ID=2734705913.
+[26-04-23 17:56:22.946] LOG  : General     , 1682531782946> 69,285> Workshop: GetItemState()=Installed ID=2685168362.
+[26-04-23 17:56:22.947] LOG  : General     , 1682531782947> 69,286> Workshop: item state CheckItemState -> Ready ID=2685168362.
+[26-04-23 17:56:22.947] LOG  : General     , 1682531782947> 69,286> Workshop: GetItemState()=Installed ID=2657661246.
+[26-04-23 17:56:22.947] LOG  : General     , 1682531782947> 69,286> Workshop: item state CheckItemState -> Ready ID=2657661246.
+[26-04-23 17:56:22.948] LOG  : General     , 1682531782948> 69,287> Workshop: GetItemState()=Installed ID=2845952197.
+[26-04-23 17:56:22.948] LOG  : General     , 1682531782948> 69,287> Workshop: item state CheckItemState -> Ready ID=2845952197.
+[26-04-23 17:56:22.948] LOG  : General     , 1682531782948> 69,287> Workshop: GetItemState()=Installed ID=2815560151.
+[26-04-23 17:56:22.949] LOG  : General     , 1682531782948> 69,288> Workshop: item state CheckItemState -> Ready ID=2815560151.
+[26-04-23 17:56:22.949] LOG  : General     , 1682531782949> 69,288> Workshop: GetItemState()=Installed ID=2704811006.
+[26-04-23 17:56:22.949] LOG  : General     , 1682531782949> 69,288> Workshop: item state CheckItemState -> Ready ID=2704811006.
+[26-04-23 17:56:22.949] LOG  : General     , 1682531782949> 69,289> Workshop: GetItemState()=Installed ID=2812326159.
+[26-04-23 17:56:22.950] LOG  : General     , 1682531782950> 69,289> Workshop: item state CheckItemState -> Ready ID=2812326159.
+[26-04-23 17:56:22.950] LOG  : General     , 1682531782950> 69,289> Workshop: GetItemState()=Installed ID=2769706949.
+[26-04-23 17:56:22.950] LOG  : General     , 1682531782950> 69,289> Workshop: item state CheckItemState -> Ready ID=2769706949.
+[26-04-23 17:56:22.951] LOG  : General     , 1682531782950> 69,290> Workshop: GetItemState()=Installed ID=2487022075.
+[26-04-23 17:56:22.951] LOG  : General     , 1682531782951> 69,290> Workshop: item state CheckItemState -> Ready ID=2487022075.
+[26-04-23 17:56:22.951] LOG  : General     , 1682531782951> 69,290> Workshop: GetItemState()=Installed ID=2687798127.
+[26-04-23 17:56:22.951] LOG  : General     , 1682531782951> 69,291> Workshop: item state CheckItemState -> Ready ID=2687798127.
+[26-04-23 17:56:22.952] LOG  : General     , 1682531782952> 69,291> Workshop: GetItemState()=Installed ID=2619072426.
+[26-04-23 17:56:22.952] LOG  : General     , 1682531782952> 69,291> Workshop: item state CheckItemState -> Ready ID=2619072426.
+[26-04-23 17:56:22.952] LOG  : General     , 1682531782952> 69,291> Workshop: GetItemState()=Installed ID=2696083206.
+[26-04-23 17:56:22.953] LOG  : General     , 1682531782952> 69,292> Workshop: item state CheckItemState -> Ready ID=2696083206.
+[26-04-23 17:56:22.953] LOG  : General     , 1682531782953> 69,292> Workshop: GetItemState()=Installed ID=2763647806.
+[26-04-23 17:56:22.953] LOG  : General     , 1682531782953> 69,292> Workshop: item state CheckItemState -> Ready ID=2763647806.
+[26-04-23 17:56:22.953] LOG  : General     , 1682531782953> 69,292> Workshop: GetItemState()=Installed ID=2685168362.
+[26-04-23 17:56:22.953] LOG  : General     , 1682531782953> 69,292> Workshop: item state CheckItemState -> Ready ID=2685168362.
+[26-04-23 17:56:22.954] LOG  : General     , 1682531782954> 69,293> Workshop: GetItemState()=Installed ID=2835829018.
+[26-04-23 17:56:22.954] LOG  : General     , 1682531782954> 69,293> Workshop: item state CheckItemState -> Ready ID=2835829018.
+[26-04-23 17:56:22.954] LOG  : General     , 1682531782954> 69,293> Workshop: GetItemState()=Installed ID=2282429356.
+[26-04-23 17:56:22.954] LOG  : General     , 1682531782954> 69,293> Workshop: item state CheckItemState -> Ready ID=2282429356.
+[26-04-23 17:56:22.955] LOG  : General     , 1682531782954> 69,294> Workshop: GetItemState()=Installed ID=2004998206.
+[26-04-23 17:56:22.955] LOG  : General     , 1682531782955> 69,294> Workshop: item state CheckItemState -> Ready ID=2004998206.
+[26-04-23 17:56:22.955] LOG  : General     , 1682531782955> 69,294> Workshop: GetItemState()=Installed ID=2196102849.
+[26-04-23 17:56:22.955] LOG  : General     , 1682531782955> 69,294> Workshop: item state CheckItemState -> Ready ID=2196102849.
+[26-04-23 17:56:22.956] LOG  : General     , 1682531782955> 69,295> Workshop: GetItemState()=Installed ID=2200148440.
+[26-04-23 17:56:22.956] LOG  : General     , 1682531782956> 69,295> Workshop: item state CheckItemState -> Ready ID=2200148440.
+[26-04-23 17:56:22.956] LOG  : General     , 1682531782956> 69,295> Workshop: GetItemState()=Installed ID=2849247394.
+[26-04-23 17:56:22.956] LOG  : General     , 1682531782956> 69,295> Workshop: item state CheckItemState -> Ready ID=2849247394.
+[26-04-23 17:56:22.957] LOG  : General     , 1682531782956> 69,296> Workshop: GetItemState()=Installed ID=639909479.
+[26-04-23 17:56:22.957] LOG  : General     , 1682531782957> 69,296> Workshop: item state CheckItemState -> Ready ID=639909479.
+[26-04-23 17:56:22.957] LOG  : General     , 1682531782957> 69,296> Workshop: GetItemState()=Installed ID=2487022075.
+[26-04-23 17:56:22.957] LOG  : General     , 1682531782957> 69,296> Workshop: item state CheckItemState -> Ready ID=2487022075.
+[26-04-23 17:56:22.960] LOG  : General     , 1682531782959> 69,299> Workshop: 2753894806 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2753894806.
+[26-04-23 17:56:22.960] LOG  : General     , 1682531782960> 69,299> Workshop: 2071347174 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2071347174.
+[26-04-23 17:56:22.960] LOG  : General     , 1682531782960> 69,300> Workshop: 2808679062 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2808679062.
+[26-04-23 17:56:22.961] LOG  : General     , 1682531782961> 69,300> Workshop: 2594865484 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2594865484.
+[26-04-23 17:56:22.961] LOG  : General     , 1682531782961> 69,300> Workshop: 2313387159 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2313387159.
+[26-04-23 17:56:22.962] LOG  : General     , 1682531782962> 69,301> Workshop: 2368058459 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2368058459.
+[26-04-23 17:56:22.962] LOG  : General     , 1682531782962> 69,301> Workshop: 1759532925 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/1759532925.
+[26-04-23 17:56:22.962] LOG  : General     , 1682531782962> 69,302> Workshop: 2736059670 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2736059670.
+[26-04-23 17:56:22.963] LOG  : General     , 1682531782963> 69,302> Workshop: 2711057211 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2711057211.
+[26-04-23 17:56:22.963] LOG  : General     , 1682531782963> 69,302> Workshop: 2763647806 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2763647806.
+[26-04-23 17:56:22.963] LOG  : General     , 1682531782963> 69,303> Workshop: 2804531012 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2804531012.
+[26-04-23 17:56:22.964] LOG  : General     , 1682531782964> 69,303> Workshop: 2701170568 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2701170568.
+[26-04-23 17:56:22.964] LOG  : General     , 1682531782964> 69,303> Workshop: 2717575749 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2717575749.
+[26-04-23 17:56:22.964] LOG  : General     , 1682531782964> 69,304> Workshop: 2447729538 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2447729538.
+[26-04-23 17:56:22.965] LOG  : General     , 1682531782965> 69,304> Workshop: 2616986064 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2616986064.
+[26-04-23 17:56:22.966] LOG  : General     , 1682531782965> 69,305> Workshop: 2688538916 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2688538916.
+[26-04-23 17:56:22.966] LOG  : General     , 1682531782966> 69,305> Workshop: 2732662310 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2732662310.
+[26-04-23 17:56:22.966] LOG  : General     , 1682531782966> 69,306> Workshop: 2715911680 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2715911680.
+[26-04-23 17:56:22.967] LOG  : General     , 1682531782967> 69,306> Workshop: 2710167561 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2710167561.
+[26-04-23 17:56:22.967] LOG  : General     , 1682531782967> 69,306> Workshop: 2734705913 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2734705913.
+[26-04-23 17:56:22.967] LOG  : General     , 1682531782967> 69,307> Workshop: 2685168362 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2685168362.
+[26-04-23 17:56:22.968] LOG  : General     , 1682531782968> 69,307> Workshop: 2657661246 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2657661246.
+[26-04-23 17:56:22.968] LOG  : General     , 1682531782968> 69,307> Workshop: 2845952197 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2845952197.
+[26-04-23 17:56:22.968] LOG  : General     , 1682531782968> 69,308> Workshop: 2815560151 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2815560151.
+[26-04-23 17:56:22.969] LOG  : General     , 1682531782969> 69,308> Workshop: 2704811006 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2704811006.
+[26-04-23 17:56:22.969] LOG  : General     , 1682531782969> 69,308> Workshop: 2812326159 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2812326159.
+[26-04-23 17:56:22.970] LOG  : General     , 1682531782970> 69,309> Workshop: 2769706949 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2769706949.
+[26-04-23 17:56:22.970] LOG  : General     , 1682531782970> 69,309> Workshop: 2487022075 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2487022075.
+[26-04-23 17:56:22.970] LOG  : General     , 1682531782970> 69,310> Workshop: 2687798127 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2687798127.
+[26-04-23 17:56:22.971] LOG  : General     , 1682531782971> 69,310> Workshop: 2619072426 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2619072426.
+[26-04-23 17:56:22.971] LOG  : General     , 1682531782971> 69,310> Workshop: 2696083206 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2696083206.
+[26-04-23 17:56:22.971] LOG  : General     , 1682531782971> 69,311> Workshop: 2763647806 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2763647806.
+[26-04-23 17:56:22.972] LOG  : General     , 1682531782972> 69,311> Workshop: 2685168362 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2685168362.
+[26-04-23 17:56:22.972] LOG  : General     , 1682531782972> 69,311> Workshop: 2835829018 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2835829018.
+[26-04-23 17:56:22.972] LOG  : General     , 1682531782972> 69,312> Workshop: 2282429356 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2282429356.
+[26-04-23 17:56:22.973] LOG  : General     , 1682531782973> 69,312> Workshop: 2004998206 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2004998206.
+[26-04-23 17:56:22.973] LOG  : General     , 1682531782973> 69,312> Workshop: 2196102849 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2196102849.
+[26-04-23 17:56:22.974] LOG  : General     , 1682531782973> 69,313> Workshop: 2200148440 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2200148440.
+[26-04-23 17:56:22.974] LOG  : General     , 1682531782974> 69,313> Workshop: 2849247394 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2849247394.
+[26-04-23 17:56:22.974] LOG  : General     , 1682531782974> 69,314> Workshop: 639909479 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/639909479.
+[26-04-23 17:56:22.975] LOG  : General     , 1682531782975> 69,314> Workshop: 2487022075 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2487022075.
+[26-04-23 17:56:22.977] LOG  : General     , 1682531782977> 69,316> Start making backup to: /home/linuxgsm/Zomboid/backups/startup.
+[26-04-23 17:56:23.249] LOG  : General     , 1682531783249> 69,588> compressionElapsed=157ms, mergingElapsed=106ms.
+[26-04-23 17:56:23.264] LOG  : General     , 1682531783263> 69,603> Backup made in 285 ms.
+[26-04-23 17:56:23.265] LOG  : General     , 1682531783265> 69,604> user database "/home/linuxgsm/Zomboid/db/uoasi_gorditos.db".
+[26-04-23 17:56:23.552] LOG  : General     , 1682531783551> 69,891> admin password changed via -adminpassword option.
+[26-04-23 17:56:23.552] LOG  : General     , 1682531783552> 69,891> Router detection/configuration starting..
+[26-04-23 17:56:23.552] LOG  : General     , 1682531783552> 69,891> If the server hangs here, set UPnP=false..
+[26-04-23 17:56:35.564] LOG  : Network     , 1682531795564> 81,903> No UPnP-enabled Internet gateway found, you must configure port forwarding on your gateway manually in order to make your server accessible from the Internet..
+[26-04-23 17:56:35.564] LOG  : Network     , 1682531795564> 81,904> Initialising Server Systems....
+[26-04-23 17:56:36.023] LOG  : Lua         , 1682531796023> 82,362> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[26-04-23 17:56:37.548] LOG  : General     , 1682531797542> 83,885> scriptChecksum: 65f5e46ef1be089d5adca89001729e9c.
+[26-04-23 17:56:37.561] WARN : Recipe      , 1682531797561> 83,900> RecipeManager.resolveItemModuleDotType> WARNING: module "Base" may have forgot to import module Base.
+[26-04-23 17:56:37.567] WARN : Script      , 1682531797567> 83,906> ModelScript.check> no such model "null" for Base.BareHands.
+[26-04-23 17:56:37.567] WARN : Script      , 1682531797567> 83,907> ModelScript.check> no such model "???.DisposableRazor" for Base.Razor.
+[26-04-23 17:56:37.571] WARN : Script      , 1682531797571> 83,911> ModelScript.check> no such model "Chainsaw" for Base.Chainsaw.
+[26-04-23 17:56:38.048] LOG  : General     , 1682531798048> 84,387> LOADING ASSETS: START.
+[26-04-23 17:56:59.437] LOG  : General     , 1682531819408> 105,770> LOADING ASSETS: FINISH.
+[26-04-23 17:56:59.554] LOG  : Lua         , 1682531819542> 105,893> Loading: media/lua/shared/a_requires.lua.
+[26-04-23 17:56:59.574] LOG  : Lua         , 1682531819574> 105,913> Loading: media/lua/shared/defines.lua.
+[26-04-23 17:56:59.578] LOG  : Lua         , 1682531819577> 105,917> Loading: media/lua/shared/Definitions/AttachedWeaponDefinitions.lua.
+[26-04-23 17:56:59.587] LOG  : Lua         , 1682531819587> 105,927> Loading: media/lua/shared/Definitions/ClothingRecipesDefinitions.lua.
+[26-04-23 17:56:59.588] LOG  : Lua         , 1682531819588> 105,927> Loading: media/lua/shared/Definitions/ClothingSelectionDefinitions.lua.
+[26-04-23 17:56:59.593] LOG  : Lua         , 1682531819593> 105,932> Loading: media/lua/shared/Definitions/ContainerButtonIcons.lua.
+[26-04-23 17:56:59.658] LOG  : Lua         , 1682531819644> 105,995> Loading: media/lua/shared/Definitions/DamageModelDefinitions.lua.
+[26-04-23 17:56:59.726] LOG  : Lua         , 1682531819700> 106,059> Loading: media/lua/shared/Definitions/DefaultClothing.lua.
+[26-04-23 17:56:59.782] LOG  : Lua         , 1682531819764> 106,120> Loading: media/lua/shared/Definitions/FitnessExercises.lua.
+[26-04-23 17:56:59.830] LOG  : Lua         , 1682531819824> 106,168> Loading: media/lua/shared/Definitions/HairOutfitDefinitions.lua.
+[26-04-23 17:56:59.860] LOG  : Lua         , 1682531819853> 106,197> Loading: media/lua/shared/Definitions/MakeUpDefinitions.lua.
+[26-04-23 17:56:59.904] LOG  : Lua         , 1682531819883> 106,239> Loading: media/lua/shared/Definitions/MapSymbolDefinitions.lua.
+[26-04-23 17:57:00.096] LOG  : Lua         , 1682531820087> 106,435> Loading: media/lua/shared/Definitions/SmashedCarDefinitions.lua.
+[26-04-23 17:57:00.110] LOG  : Lua         , 1682531820108> 106,449> Loading: media/lua/shared/Definitions/UnderwearDefinition.lua.
+[26-04-23 17:57:00.115] LOG  : Lua         , 1682531820115> 106,454> Loading: media/lua/shared/Fishing/fishing_properties.lua.
+[26-04-23 17:57:00.122] LOG  : Lua         , 1682531820122> 106,461> Loading: media/lua/shared/Foraging/forageDefinitions.lua.
+[26-04-23 17:57:00.178] LOG  : Lua         , 1682531820156> 106,506> Loading: media/lua/shared/Foraging/forageSystem.lua.
+[26-04-23 17:57:00.363] LOG  : Lua         , 1682531820353> 106,702> Loading: media/lua/shared/ISBaseObject.lua.
+[26-04-23 17:57:00.368] LOG  : Lua         , 1682531820368> 106,707> Loading: media/lua/shared/iwbumstempmodelcompat.lua.
+[26-04-23 17:57:00.369] LOG  : Lua         , 1682531820369> 106,708> Loading: media/lua/shared/JoyPad/JoyPadSetup.lua.
+[26-04-23 17:57:00.383] LOG  : Lua         , 1682531820383> 106,722> Loading: media/lua/shared/keyBinding.lua.
+[26-04-23 17:57:00.388] LOG  : Lua         , 1682531820388> 106,728> Loading: media/lua/shared/Logs/ISLogSystem.lua.
+[26-04-23 17:57:00.390] LOG  : Lua         , 1682531820390> 106,730> Loading: media/lua/shared/Logs/ISPerkLog.lua.
+[26-04-23 17:57:00.425] LOG  : Lua         , 1682531820425> 106,765> Loading: media/lua/shared/luautils.lua.
+[26-04-23 17:57:00.453] LOG  : Lua         , 1682531820449> 106,792> Loading: media/lua/shared/NPCs/AttachedLocations.lua.
+[26-04-23 17:57:00.916] LOG  : Lua         , 1682531820904> 107,254> Loading: media/lua/shared/NPCs/BodyLocations.lua.
+[26-04-23 17:57:02.896] LOG  : Lua         , 1682531822813> 109,208> Loading: media/lua/shared/NPCs/MainCreationMethods.lua.
+[26-04-23 17:57:03.632] LOG  : Lua         , 1682531823596> 109,965> Loading: media/lua/shared/NPCs/ZombiesZoneDefinition.lua.
+[26-04-23 17:57:03.945] LOG  : Lua         , 1682531823880> 110,264> Loading: media/lua/shared/RecordedMedia/ISRecordeMedia.lua.
+[26-04-23 17:57:04.175] LOG  : Lua         , 1682531824109> 110,495> Loading: media/lua/shared/RecordedMedia/recorded_media.lua.

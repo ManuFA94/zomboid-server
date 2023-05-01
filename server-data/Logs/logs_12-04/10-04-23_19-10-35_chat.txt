@@ -1,0 +1,34 @@
+[10-04-23 19:10:35.769][info] Start chat server initialization....
+[10-04-23 19:10:35.771][info] General chat has id = 0.
+[10-04-23 19:10:35.772][info] Say chat has id = 1.
+[10-04-23 19:10:35.772][info] Shout chat has id = 2.
+[10-04-23 19:10:35.772][info] Radio chat has id = 3.
+[10-04-23 19:10:35.772][info] Admin chat has id = 4.
+[10-04-23 19:10:35.772][info] Server chat has id = 5.
+[10-04-23 19:10:35.772][info] Chat server successfully initialized.
+[10-04-23 19:12:44.730][info] Player with id = '0' tries to connect.
+[10-04-23 19:12:44.730][info] Adding player '0' to chat server.
+[10-04-23 19:12:44.731][info] Player joined to default chats.
+[10-04-23 19:12:44.731][info] Player Manu(0) joined to chat server successfully.
+[10-04-23 19:12:51.116][info] Player 0 disconnecting....
+[10-04-23 19:12:51.116][info] Disconnecting player 0 finished.
+[10-04-23 19:12:51.116][info] Player 0 disconnecting....
+[10-04-23 19:12:51.116][info] Disconnecting player 0 finished.
+[10-04-23 19:14:57.518][info] Player with id = '0' tries to connect.
+[10-04-23 19:14:57.518][info] Adding player '0' to chat server.
+[10-04-23 19:14:57.518][info] Player joined to default chats.
+[10-04-23 19:14:57.518][info] Player Manu(0) joined to chat server successfully.
+[10-04-23 19:15:14.608][info] Got message:ChatMessage{chat=Local, author='Manu', text='hola'}.
+[10-04-23 19:15:14.609][info] Message ChatMessage{chat=Local, author='Manu', text='hola'} sent to chat (id = 1) members.
+[10-04-23 19:15:17.944][info] Player 0 disconnecting....
+[10-04-23 19:15:17.944][info] Disconnecting player 0 finished.
+[10-04-23 19:15:17.944][info] Player 0 disconnecting....
+[10-04-23 19:15:17.944][info] Disconnecting player 0 finished.
+[12-04-23 07:32:51.641][info] Player with id = '0' tries to connect.
+[12-04-23 07:32:51.641][info] Adding player '0' to chat server.
+[12-04-23 07:32:51.641][info] Player joined to default chats.
+[12-04-23 07:32:51.641][info] Player Manu(0) joined to chat server successfully.
+[12-04-23 07:33:03.356][info] Player 0 disconnecting....
+[12-04-23 07:33:03.356][info] Disconnecting player 0 finished.
+[12-04-23 07:33:03.356][info] Player 0 disconnecting....
+[12-04-23 07:33:03.356][info] Disconnecting player 0 finished.

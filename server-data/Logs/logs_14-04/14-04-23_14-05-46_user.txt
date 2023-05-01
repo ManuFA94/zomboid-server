@@ -1,0 +1,24 @@
+[14-04-23 14:05:46.699] added connection index=0 192.168.1.190.
+[14-04-23 14:05:47.832] 76561198092295074 "Manu" attempting to join.
+[14-04-23 14:05:47.835] 76561198092295074 "Manu" allowed to join.
+[14-04-23 14:06:07.271] 76561198092295074 "Manu" attempting to join used queue.
+[14-04-23 14:06:21.614] player Manu loading time was: 13752 ms.
+[14-04-23 14:06:34.066] 76561198092295074 "Manu" fully connected (10883,10164,0).
+[14-04-23 14:07:15.498] 76561198092295074 "Manu" removed connection index=0.
+[14-04-23 14:07:15.511] 76561198092295074 "Manu" disconnected player (10883,10164,0).
+[14-04-23 17:06:46.867] added connection index=0 89.131.193.21.
+[14-04-23 17:06:48.196] 76561198938953146 "Rodri" attempting to join.
+[14-04-23 17:06:48.197] 76561198938953146 "Rodri" allowed to join.
+[14-04-23 17:09:55.177] 76561198938953146 "Rodri" attempting to join used queue.
+[14-04-23 17:10:58.101] player Rodri loading time was: 59283 ms.
+[14-04-23 17:11:21.438] 76561198938953146 "Rodri" fully connected (10908,9994,0).
+[14-04-23 17:11:40.396] added connection index=1 192.168.1.190.
+[14-04-23 17:11:41.509] 76561198092295074 "Manu" attempting to join.
+[14-04-23 17:11:41.510] 76561198092295074 "Manu" allowed to join.
+[14-04-23 17:12:00.301] 76561198092295074 "Manu" attempting to join used queue.
+[14-04-23 17:12:25.344] player Manu loading time was: 23737 ms.
+[14-04-23 17:13:08.585] 76561198092295074 "Manu" fully connected (10883,10164,0).
+[14-04-23 17:26:40.677] 76561198938953146 "Rodri" removed connection index=0.
+[14-04-23 17:26:40.691] 76561198938953146 "Rodri" disconnected player (10793,9972,0).
+[14-04-23 17:28:45.061] 76561198092295074 "Manu" removed connection index=1.
+[14-04-23 17:28:45.072] 76561198092295074 "Manu" disconnected player (10881,10159,1).

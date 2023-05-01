@@ -1,0 +1,47 @@
+[16-04-23 20:20:00.884] added connection index=0 192.168.1.190.
+[16-04-23 20:20:01.951] 76561198092295074 "Manu" attempting to join.
+[16-04-23 20:20:01.955] 76561198092295074 "Manu" was added.
+[16-04-23 20:20:01.955] 76561198092295074 "Manu" allowed to join.
+[16-04-23 20:20:10.307] added connection index=1 79.148.197.169.
+[16-04-23 20:20:11.665] 76561198152792799 "Marcos" attempting to join.
+[16-04-23 20:20:11.673] 76561198152792799 "Marcos" was added.
+[16-04-23 20:20:11.673] 76561198152792799 "Marcos" allowed to join.
+[16-04-23 20:26:04.968] 76561198092295074 "Manu" attempting to join used queue.
+[16-04-23 20:26:39.696] player Manu loading time was: 33430 ms.
+[16-04-23 20:26:46.542] 76561198092295074 "Manu" fully connected (8327,11814,0).
+[16-04-23 20:26:52.744] 76561198152792799 "Marcos" attempting to join used queue.
+[16-04-23 20:27:27.869] player Marcos loading time was: 33324 ms.
+[16-04-23 20:27:31.537] 76561198152792799 "Marcos" fully connected (8208,11600,0).
+[16-04-23 20:33:53.142] user Manu died at (8294,12021,0) (non pvp).
+[16-04-23 20:34:35.498] 76561198092295074 "Manu" disconnected player (8294,12021,0).
+[16-04-23 20:34:38.084] 76561198092295074 "Manu" fully connected (8074,11731,0).
+[16-04-23 20:36:39.949] user Marcos died at (8219,11560,0) (non pvp).
+[16-04-23 20:36:49.948] user Manu died at (8069,11732,0) (non pvp).
+[16-04-23 20:37:37.109] 76561198152792799 "Marcos" disconnected player (8219,11560,0).
+[16-04-23 20:37:39.455] 76561198152792799 "Marcos" fully connected (8246,11670,0).
+[16-04-23 20:38:13.845] 76561198092295074 "Manu" disconnected player (8069,11732,0).
+[16-04-23 20:38:16.203] 76561198092295074 "Manu" fully connected (8418,11686,0).
+[16-04-23 20:42:59.532] user Manu died at (8418,11660,0) (non pvp).
+[16-04-23 20:43:30.794] user Marcos died at (8206,11629,0) (non pvp).
+[16-04-23 20:44:00.126] 76561198092295074 "Manu" disconnected player (8418,11660,0).
+[16-04-23 20:44:02.537] 76561198092295074 "Manu" fully connected (8327,11814,0).
+[16-04-23 20:46:05.291] 76561198152792799 "Marcos" disconnected player (8206,11629,0).
+[16-04-23 20:46:07.630] 76561198152792799 "Marcos" fully connected (8074,11731,0).
+[16-04-23 21:02:59.647] user Marcos died at (8127,11644,0) (non pvp).
+[16-04-23 21:03:05.033] user Manu died at (8126,11643,0) (non pvp).
+[16-04-23 21:03:12.178] 76561198152792799 "Marcos" removed connection index=1.
+[16-04-23 21:03:12.190] 76561198152792799 "Marcos" disconnected player (8127,11644,0).
+[16-04-23 21:03:14.607] 76561198092295074 "Manu" removed connection index=0.
+[16-04-23 21:03:14.617] 76561198092295074 "Manu" disconnected player (8126,11643,0).
+[17-04-23 19:31:20.338] added connection index=0 192.168.1.186.
+[17-04-23 19:31:21.562] 76561198151521901 "David" attempting to join.
+[17-04-23 19:31:21.566] 76561198151521901 "David" was added.
+[17-04-23 19:31:21.566] 76561198151521901 "David" allowed to join.
+[17-04-23 19:33:51.020] 76561198151521901 "David" removed connection index=0.
+[17-04-23 19:34:06.443] added connection index=0 192.168.1.186.
+[17-04-23 19:34:07.459] 76561198151521901 "David" attempting to join.
+[17-04-23 19:34:07.466] 76561198151521901 "David" allowed to join.
+[17-04-23 19:34:32.856] 76561198151521901 "David" removed connection index=0.
+[17-04-23 19:34:50.156] added connection index=0 192.168.1.186.
+[17-04-23 19:34:51.171] 76561198151521901 "David" attempting to join.
+[17-04-23 19:34:51.171] 76561198151521901 "David" allowed to join.

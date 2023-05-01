@@ -1,0 +1,24 @@
+[14-04-23 17:47:43.222] added connection index=0 192.168.1.190.
+[14-04-23 17:47:44.299] 76561198092295074 "Manu" attempting to join.
+[14-04-23 17:47:44.300] 76561198092295074 "Manu" allowed to join.
+[14-04-23 17:48:03.367] 76561198092295074 "Manu" attempting to join used queue.
+[14-04-23 17:48:17.175] player Manu loading time was: 13225 ms.
+[14-04-23 17:48:19.351] 76561198092295074 "Manu" fully connected (10881,10159,1).
+[14-04-23 17:49:38.994] 76561198092295074 "Manu" removed connection index=0.
+[14-04-23 17:49:39.005] 76561198092295074 "Manu" disconnected player (10881,10159,1).
+[14-04-23 17:52:29.312] added connection index=0 192.168.1.190.
+[14-04-23 17:52:30.278] 76561198092295074 "Manu" attempting to join.
+[14-04-23 17:52:30.278] 76561198092295074 "Manu" allowed to join.
+[14-04-23 17:52:48.837] 76561198092295074 "Manu" attempting to join used queue.
+[14-04-23 17:53:02.203] player Manu loading time was: 12887 ms.
+[14-04-23 17:53:04.394] 76561198092295074 "Manu" fully connected (10881,10159,1).
+[14-04-23 17:55:00.210] 76561198092295074 "Manu" removed connection index=0.
+[14-04-23 17:55:00.220] 76561198092295074 "Manu" disconnected player (10881,10159,1).
+[14-04-23 20:35:45.733] added connection index=0 86.127.229.251.
+[14-04-23 20:35:46.790] 76561197980741579 "Lil Banano" attempting to join.
+[14-04-23 20:35:46.813] 76561197980741579 "Lil Banano" allowed to join.
+[14-04-23 20:35:56.190] 76561197980741579 "Lil Banano" attempting to join used queue.
+[14-04-23 20:36:13.508] player Lil Banano loading time was: 16345 ms.
+[14-04-23 20:36:17.036] 76561197980741579 "Lil Banano" fully connected (10879,10158,0).
+[14-04-23 21:10:14.048] 76561197980741579 "Lil Banano" removed connection index=0.
+[14-04-23 21:10:14.061] 76561197980741579 "Lil Banano" disconnected player (10881,10159,0).

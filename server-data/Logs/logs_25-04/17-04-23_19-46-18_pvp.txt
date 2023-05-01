@@ -1,0 +1,6 @@
+[17-04-23 19:46:18.275][INFO] user "David" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[17-04-23 19:54:03.502][INFO] user "David" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[18-04-23 11:59:53.985][INFO] user "Jaime" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[18-04-23 12:01:55.842][INFO] user "Jaime" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[18-04-23 12:28:33.152][INFO] user "Jaime" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[18-04-23 12:31:44.489][INFO] user "Jaime" store safety enabled=true last=true cooldown=0.0 toggle=0.0.

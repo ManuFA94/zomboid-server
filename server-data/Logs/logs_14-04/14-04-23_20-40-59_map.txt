@@ -1,0 +1,4 @@
+[14-04-23 20:40:59.860] 76561197980741579 "Lil Banano" removed IsoObject (furniture_tables_high_01_19) at 10878,10159,1.
+[14-04-23 20:40:59.870] 76561197980741579 "Lil Banano" removed IsoObject (furniture_tables_high_01_20) at 10879,10159,1.
+[14-04-23 20:41:36.661] 76561197980741579 "Lil Banano" removed IsoObject (furniture_bedding_01_39) at 10878,10160,1.
+[14-04-23 20:41:36.666] 76561197980741579 "Lil Banano" removed IsoObject (furniture_bedding_01_38) at 10878,10161,1.

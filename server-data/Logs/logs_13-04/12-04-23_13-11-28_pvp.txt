@@ -1,0 +1,12 @@
+[12-04-23 13:11:28.203][INFO] user "Manu" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[12-04-23 13:14:20.340][INFO] user "Manu" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[13-04-23 19:35:39.598][INFO] user "Manu" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[13-04-23 19:49:22.325][INFO] user "Manu" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[13-04-23 20:51:23.072][INFO] user "Manu" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[13-04-23 21:11:43.755][INFO] user "Lil Banano" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[13-04-23 22:03:04.169][INFO] user "Manu" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[13-04-23 22:10:21.016] user "Lil Banano" (10880,10158,0) enabled safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[13-04-23 22:10:21.016] user "Lil Banano" (10880,10158,0) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[13-04-23 22:10:25.408] user "Lil Banano" (10881,10158,0) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[13-04-23 22:10:25.408] user "Lil Banano" (10881,10158,0) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[13-04-23 22:22:11.491][INFO] user "Lil Banano" store safety enabled=true last=false cooldown=0.0 toggle=0.0.

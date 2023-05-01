@@ -1,0 +1,8 @@
+[10-04-23 18:22:25.151] added connection index=0 253.122.31.116.
+[10-04-23 18:22:26.253] 76561198092295074 "Manu" attempting to join.
+[10-04-23 18:22:26.256] 76561198092295074 "Manu" allowed to join.
+[10-04-23 18:22:52.257] 76561198092295074 "Manu" attempting to join used queue.
+[10-04-23 18:23:11.289] player Manu loading time was: 18416 ms.
+[10-04-23 18:23:13.747] 76561198092295074 "Manu" fully connected (10908,9994,0).
+[10-04-23 18:24:18.480] 76561198092295074 "Manu" removed connection index=0.
+[10-04-23 18:24:18.495] 76561198092295074 "Manu" disconnected player (10910,9995,0).

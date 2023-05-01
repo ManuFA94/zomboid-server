@@ -1,0 +1,242 @@
+[12-04-23 13:12:37.118] 76561198092295074 "Manu" container -1 10882,9954,0 [farming.Cabbage].
+[12-04-23 13:12:46.202] 76561198092295074 "Manu" container -1 10884,9954,0 [Base.KitchenKnife].
+[12-04-23 13:12:49.177] 76561198092295074 "Manu" container -1 10884,9954,0 [Base.BreadKnife].
+[12-04-23 13:12:52.103] 76561198092295074 "Manu" container -4 10884,9954,0 [Base.GlassTumbler, Base.CarvingFork, Base.Plate, Base.MugWhite].
+[12-04-23 13:13:13.105] 76561198092295074 "Manu" container -3 10887,9956,0 [Base.Book].
+[12-04-23 13:13:16.161] 76561198092295074 "Manu" container -2 10887,9956,0 [Base.BookFishing3, Base.FishingMag1].
+[12-04-23 13:13:59.565] 76561198092295074 "Manu" floor +1 10868,9885,0 [Base.Glasses_Normal].
+[12-04-23 13:14:20.326] 76561198092295074 "Manu" floor +1 10868,9888,0 [Base.KitchenKnife].
+[12-04-23 13:14:20.327] 76561198092295074 "Manu" floor +1 10868,9888,0 [Base.BreadKnife].
+[13-04-23 19:35:51.820] 76561198092295074 "Manu" container -1 10861,10249,0 [Base.Screwdriver].
+[13-04-23 19:35:57.732] 76561198092295074 "Manu" container -1 10861,10249,0 [Base.Screwdriver].
+[13-04-23 19:36:06.732] 76561198092295074 "Manu" container -1 10861,10248,0 [Base.Rope].
+[13-04-23 19:36:09.736] 76561198092295074 "Manu" container -1 10861,10248,0 [Base.HandTorch].
+[13-04-23 19:36:51.831] 76561198092295074 "Manu" container -1 10866,10246,0 [Base.Avocado].
+[13-04-23 19:37:06.743] 76561198092295074 "Manu" container -3 10867,10246,0 [Base.TinOpener, Base.CannedPotato2, Base.CannedFruitCocktail].
+[13-04-23 19:37:18.730] 76561198092295074 "Manu" container -1 10870,10246,0 [Base.Pan].
+[13-04-23 19:37:21.797] 76561198092295074 "Manu" container -1 10870,10246,0 [Base.KitchenTongs].
+[13-04-23 19:37:30.732] 76561198092295074 "Manu" container -1 10868,10246,0 [Base.GlassTumbler].
+[13-04-23 19:38:51.842] 76561198092295074 "Manu" container -2 10870,10251,0 [Base.Bullets44Box, Base.Revolver_Long].
+[13-04-23 19:38:57.725] 76561198092295074 "Manu" container -1 10870,10251,0 [Base.Newspaper].
+[13-04-23 19:39:18.724] 76561198092295074 "Manu" container -1 10861,10247,0 [Base.Drumstick].
+[13-04-23 19:40:54.770] 76561198092295074 "Manu" floor +1 10838,10251,0 [Base.Hat_BaseballCap].
+[13-04-23 19:42:09.727] 76561198092295074 "Manu" container -2 10835,10249,0 [Base.DuctTape, Radio.ElectricWire].
+[13-04-23 19:42:12.773] 76561198092295074 "Manu" container -1 10835,10249,0 [Base.LightBulb].
+[13-04-23 19:42:42.720] 76561198092295074 "Manu" container -1 10840,10246,0 [Base.Bandage].
+[13-04-23 19:44:15.845] 76561198092295074 "Manu" container -1 10839,10246,0 [Base.Tweezers].
+[13-04-23 19:44:18.728] 76561198092295074 "Manu" container -1 10839,10246,0 [Base.SewingKit].
+[13-04-23 19:44:21.779] 76561198092295074 "Manu" container -1 10839,10246,0 [Base.Disinfectant].
+[13-04-23 19:44:48.729] 76561198092295074 "Manu" container -1 10842,10251,0 [Base.Screwdriver].
+[13-04-23 19:47:36.729] 76561198092295074 "Manu" container +0 10824,10258,0 [Base.Drumstick].
+[13-04-23 19:49:22.324] 76561198092295074 "Manu" floor +1 10863,10247,0 [Base.Screwdriver].
+[13-04-23 19:49:22.325] 76561198092295074 "Manu" floor +1 10863,10247,0 [Base.HandTorch].
+[13-04-23 20:52:14.069] 76561198092295074 "Manu" container -1 10808,10077,0 [Base.Sausage].
+[13-04-23 20:52:16.986] 76561198092295074 "Manu" container -1 10808,10077,0 [Base.Apple].
+[13-04-23 20:52:28.988] 76561198092295074 "Manu" container -4 10810,10078,0 [Base.MeatCleaver, Base.Fork, Base.MugRed, Base.MugWhite].
+[13-04-23 20:52:40.980] 76561198092295074 "Manu" container -2 10810,10077,0 [Base.CannedMushroomSoup, Base.CannedPeas].
+[13-04-23 20:52:43.981] 76561198092295074 "Manu" container -2 10810,10077,0 [Base.CannedCornedBeef, Base.CannedFruitCocktail].
+[13-04-23 20:52:52.986] 76561198092295074 "Manu" container -4 10806,10078,0 [Base.Saw, Base.SewingKit, Base.DuctTape].
+[13-04-23 20:52:55.987] 76561198092295074 "Manu" container -1 10806,10079,0 [Base.Screwdriver].
+[13-04-23 20:53:07.981] 76561198092295074 "Manu" container -1 10805,10078,0 [Base.BluePen].
+[13-04-23 20:53:40.986] 76561198092295074 "Manu" container -2 10803,10075,0 [Base.Notebook, Base.RedPen].
+[13-04-23 20:54:04.978] 76561198092295074 "Manu" container -1 10806,10073,0 [Base.Book].
+[13-04-23 20:54:07.994] 76561198092295074 "Manu" container -2 10806,10073,0 [Base.Pen, Radio.RadioBlack].
+[13-04-23 20:54:19.981] 76561198092295074 "Manu" container -2 10812,10076,0 [Base.Sheet].
+[13-04-23 20:54:36.524] 76561198092295074 "Manu" floor +1 10811,10076,0 [Base.Notebook].
+[13-04-23 20:55:47.602] 76561198092295074 "Manu" floor +1 10820,10133,0 [Base.Hat_Beret].
+[13-04-23 20:56:14.509] 76561198092295074 "Manu" floor +1 10820,10137,0 [Base.Glasses_Sun].
+[13-04-23 20:58:35.009] 76561198092295074 "Manu" container -1 10863,10245,0 [Base.Vest_DefaultTEXTURE_TINT].
+[13-04-23 20:58:40.979] 76561198092295074 "Manu" container -1 10863,10245,0 [Base.Tshirt_Profession_FiremanRed].
+[13-04-23 20:58:44.019] 76561198092295074 "Manu" container -1 10863,10245,0 [Base.Socks_Long].
+[13-04-23 20:59:19.921] 76561198092295074 "Manu" floor +1 10868,10247,0 [Base.Shoes_ArmyBoots].
+[13-04-23 20:59:23.006] 76561198092295074 "Manu" floor +1 10868,10247,0 [Base.Socks_Long].
+[13-04-23 20:59:24.758] 76561198092295074 "Manu" floor +1 10868,10247,0 [Base.Vest_DefaultTEXTURE_TINT].
+[13-04-23 20:59:34.608] 76561198092295074 "Manu" floor +1 10868,10247,0 [Base.Belt2].
+[13-04-23 20:59:42.859] 76561198092295074 "Manu" floor +1 10867,10247,0 [Base.Trousers_Fireman].
+[13-04-23 21:00:05.922] 76561198092295074 "Manu" floor -1 10868,10247,0 [Base.Belt2].
+[13-04-23 21:00:11.206] 76561198092295074 "Manu" floor -1 10867,10247,0 [Base.Trousers_Fireman].
+[13-04-23 21:00:13.307] 76561198092295074 "Manu" floor -1 10868,10247,0 [Base.Vest_DefaultTEXTURE_TINT].
+[13-04-23 21:00:14.948] 76561198092295074 "Manu" floor -1 10868,10247,0 [Base.Socks_Long].
+[13-04-23 21:00:18.804] 76561198092295074 "Manu" floor -1 10868,10247,0 [Base.Shoes_ArmyBoots].
+[13-04-23 21:01:19.970] 76561198092295074 "Manu" container -1 10864,10247,0 [Base.Jacket_WhiteTINT].
+[13-04-23 21:01:53.051] 76561198092295074 "Manu" container +0 10861,10249,0 [Radio.RadioBlack].
+[13-04-23 21:02:04.972] 76561198092295074 "Manu" container +0 10861,10249,0 [Base.Shoes_ArmyBoots].
+[13-04-23 21:02:22.977] 76561198092295074 "Manu" container +0 10861,10249,0 [Base.Vest_DefaultTEXTURE_TINT].
+[13-04-23 21:04:35.045] 76561198092295074 "Manu" container -1 10863,10245,0 [Base.Bullets44Box].
+[13-04-23 21:04:40.967] 76561198092295074 "Manu" container -1 10863,10245,0 [Base.Revolver_Long].
+[13-04-23 21:04:49.976] 76561198092295074 "Manu" container -1 10863,10245,0 [Base.CannedFruitCocktail].
+[13-04-23 21:04:53.070] 76561198092295074 "Manu" container -1 10863,10245,0 [Base.TinOpener].
+[13-04-23 21:06:44.076] 76561198092295074 "Manu" container +0 10867,10246,0 [Base.CannedCornedBeef].
+[13-04-23 21:06:49.966] 76561198092295074 "Manu" container +0 10867,10246,0 [Base.CannedFruitCocktail].
+[13-04-23 21:06:53.081] 76561198092295074 "Manu" container +0 10867,10246,0 [Base.CannedPeas].
+[13-04-23 21:06:58.959] 76561198092295074 "Manu" container +0 10867,10246,0 [Base.TinCanEmpty].
+[13-04-23 21:07:10.967] 76561198092295074 "Manu" container +0 10867,10246,0 [Base.Apple].
+[13-04-23 21:07:22.988] 76561198092295074 "Manu" container +0 10866,10246,0 [Base.Sausage].
+[13-04-23 21:07:35.066] 76561198092295074 "Manu" container -1 10867,10246,0 [Base.Apple].
+[13-04-23 21:07:35.066] 76561198092295074 "Manu" container +0 10866,10246,0 [Base.Apple].
+[13-04-23 21:07:40.965] 76561198092295074 "Manu" container +0 10867,10246,0 [Base.MugRed].
+[13-04-23 21:10:33.864] 76561198092295074 "Manu" corpse +1 10863,10243,0.
+[13-04-23 21:10:50.094] 76561198092295074 "Manu" corpse +1 10864,10241,0.
+[13-04-23 21:12:01.475] 76561198092295074 "Manu" floor -1 10863,10247,0 [Base.HandTorch].
+[13-04-23 21:13:04.762] 76561197980741579 "Lil Banano" container -1 10803,10075,0 [Base.CordlessPhone].
+[13-04-23 21:13:10.757] 76561197980741579 "Lil Banano" container -1 10803,10075,0 [Base.BluePen].
+[13-04-23 21:15:58.448] 76561197980741579 "Lil Banano" floor +1 10729,10102,0 [Base.MetalBar].
+[13-04-23 21:15:58.449] 76561197980741579 "Lil Banano" floor +1 10729,10102,0 [Base.MetalPipe].
+[13-04-23 21:15:58.449] 76561197980741579 "Lil Banano" floor +1 10729,10102,0 [Base.Doorknob].
+[13-04-23 21:15:58.449] 76561197980741579 "Lil Banano" floor +1 10729,10102,0 [Base.Hinge].
+[13-04-23 21:15:58.450] 76561197980741579 "Lil Banano" floor +1 10729,10102,0 [Base.Hinge].
+[13-04-23 21:15:58.453] 76561197980741579 "Lil Banano" floor +1 10729,10101,0 [Base.MetalBar].
+[13-04-23 21:15:58.454] 76561197980741579 "Lil Banano" floor +1 10729,10101,0 [Base.Doorknob].
+[13-04-23 21:16:22.761] 76561197980741579 "Lil Banano" container -1 10781,10092,0 [Base.DeadRat].
+[13-04-23 21:17:01.958] 76561197980741579 "Lil Banano" floor +1 10729,10103,0 [Base.MetalPipe].
+[13-04-23 21:17:01.958] 76561197980741579 "Lil Banano" floor +1 10729,10103,0 [Base.Doorknob].
+[13-04-23 21:17:01.959] 76561197980741579 "Lil Banano" floor +1 10729,10103,0 [Base.Hinge].
+[13-04-23 21:17:01.959] 76561197980741579 "Lil Banano" floor +1 10729,10104,0 [Base.MetalBar].
+[13-04-23 21:17:01.960] 76561197980741579 "Lil Banano" floor +1 10729,10104,0 [Base.MetalPipe].
+[13-04-23 21:17:01.960] 76561197980741579 "Lil Banano" floor +1 10729,10104,0 [Base.Doorknob].
+[13-04-23 21:17:06.275] 76561197980741579 "Lil Banano" floor +1 10791,10071,0 [Base.UnusableWood].
+[13-04-23 21:17:06.276] 76561197980741579 "Lil Banano" floor +1 10791,10071,0 [Base.UnusableWood].
+[13-04-23 21:17:06.277] 76561197980741579 "Lil Banano" floor +1 10791,10071,0 [Base.Doorknob].
+[13-04-23 21:17:06.277] 76561197980741579 "Lil Banano" floor +1 10791,10071,0 [Base.Hinge].
+[13-04-23 21:17:06.278] 76561197980741579 "Lil Banano" floor +1 10791,10071,0 [Base.Hinge].
+[13-04-23 21:17:37.955] 76561198092295074 "Manu" container -1 10872,10186,0 [Base.Rope].
+[13-04-23 21:18:07.956] 76561198092295074 "Manu" container -4 10875,10190,1 [Base.Sheet, Base.Disinfectant, Base.Bandage].
+[13-04-23 21:18:40.949] 76561198092295074 "Manu" container -1 10875,10189,0 [Base.TinOpener].
+[13-04-23 21:18:43.956] 76561198092295074 "Manu" container -1 10875,10189,0 [Base.CannedCornedBeef].
+[13-04-23 21:19:13.759] 76561197980741579 "Lil Banano" container -1 10806,9944,0 [Base.Underpants_RedSpots].
+[13-04-23 21:19:16.775] 76561197980741579 "Lil Banano" container -1 10806,9944,0 [Base.Socks_Long].
+[13-04-23 21:19:19.760] 76561197980741579 "Lil Banano" container -1 10806,9944,0 [Base.Earring_Stud_Gold].
+[13-04-23 21:20:43.757] 76561197980741579 "Lil Banano" container -1 10887,9957,0 [Base.Magazine].
+[13-04-23 21:20:46.765] 76561197980741579 "Lil Banano" container -2 10887,9957,0 [Base.BookFishing2, Base.BookTrapping1].
+[13-04-23 21:20:49.947] 76561198092295074 "Manu" container -1 10844,10149,0 [Base.BookTrapping3].
+[13-04-23 21:20:57.871] 76561198092295074 "Manu" floor +1 10774,10238,0 [Base.UnusableWood].
+[13-04-23 21:20:57.872] 76561198092295074 "Manu" floor +1 10774,10238,0 [Base.Doorknob].
+[13-04-23 21:20:57.872] 76561198092295074 "Manu" floor +1 10774,10238,0 [Base.Hinge].
+[13-04-23 21:20:57.873] 76561198092295074 "Manu" floor +1 10774,10238,0 [Base.Hinge].
+[13-04-23 21:21:46.943] 76561198092295074 "Manu" container -1 10838,10146,1 [Base.Shoes_ArmyBoots].
+[13-04-23 21:22:14.659] 76561197980741579 "Lil Banano" floor +1 10885,9958,0 [Base.Vest_DefaultTEXTURE_TINT].
+[13-04-23 21:22:28.352] 76561198092295074 "Manu" floor +1 10838,10146,1 [Base.TinCanEmpty].
+[13-04-23 21:22:32.342] 76561197980741579 "Lil Banano" floor -1 10885,9958,0 [Base.Vest_DefaultTEXTURE_TINT].
+[13-04-23 21:22:58.109] 76561198092295074 "Manu" floor +1 10838,10146,1 [Base.Saw].
+[13-04-23 21:22:58.180] 76561198092295074 "Manu" floor +1 10838,10146,1 [Base.Saw].
+[13-04-23 21:23:03.847] 76561198092295074 "Manu" floor -1 10838,10146,1 [Base.Saw].
+[13-04-23 21:23:13.938] 76561198092295074 "Manu" container -1 10838,10146,1 [Base.Shirt_Lumberjack].
+[13-04-23 21:23:16.943] 76561198092295074 "Manu" container -1 10838,10146,1 [Base.Tshirt_DefaultTEXTURE_TINT].
+[13-04-23 21:23:46.946] 76561198092295074 "Manu" container -2 10842,10151,1 [Base.PillsBeta, Base.Bandage].
+[13-04-23 21:25:22.944] 76561198092295074 "Manu" container -1 10838,10149,0 [Base.Orange].
+[13-04-23 21:27:51.064] 76561198092295074 "Manu" floor +1 10844,10036,0 [Base.UnusableWood].
+[13-04-23 21:27:51.064] 76561198092295074 "Manu" floor +1 10844,10036,0 [Base.Doorknob].
+[13-04-23 21:28:34.203] 76561198092295074 "Manu" floor +1 10921,10050,0 [Base.Hat_BaseballCap].
+[13-04-23 21:28:43.772] 76561197980741579 "Lil Banano" container -1 10838,10149,0 [Base.Ketchup].
+[13-04-23 21:29:07.774] 76561197980741579 "Lil Banano" container -1 10840,10152,0 [Base.PorkChop].
+[13-04-23 21:29:13.767] 76561197980741579 "Lil Banano" container -1 10840,10151,0 [Base.CannedMilk].
+[13-04-23 21:30:07.771] 76561197980741579 "Lil Banano" container -1 10842,10150,1 [Base.Tweezers].
+[13-04-23 21:30:28.770] 76561197980741579 "Lil Banano" container -1 10838,10148,1 [Base.Shorts_ShortDenim].
+[13-04-23 21:32:14.168] 76561197980741579 "Lil Banano" floor +1 10840,10147,0 [Base.Earring_Stud_Gold].
+[13-04-23 21:34:25.775] 76561197980741579 "Lil Banano" container -1 10844,10149,0 [Base.Eraser].
+[13-04-23 21:35:09.385] 76561197980741579 "Lil Banano" floor -1 10841,10151,0 [Base.Cigarettes].
+[13-04-23 21:35:14.388] 76561197980741579 "Lil Banano" floor -1 10841,10151,0 [Base.Crisps].
+[13-04-23 21:36:04.871] 76561197980741579 "Lil Banano" floor +1 10916,10089,1 [Base.UnusableWood].
+[13-04-23 21:36:04.872] 76561197980741579 "Lil Banano" floor +1 10916,10089,1 [Base.Doorknob].
+[13-04-23 21:36:04.873] 76561197980741579 "Lil Banano" floor +1 10916,10089,1 [Base.Hinge].
+[13-04-23 21:36:28.774] 76561197980741579 "Lil Banano" container -1 10840,10153,0 [Base.Pop].
+[13-04-23 21:36:52.929] 76561198092295074 "Manu" container -1 10842,10144,0 [Base.JacketLong_Random].
+[13-04-23 21:36:58.778] 76561197980741579 "Lil Banano" container -1 10842,10144,0 [Base.VarmintRifle].
+[13-04-23 21:37:04.773] 76561197980741579 "Lil Banano" container -15 10842,10144,0 [Base.223Bullets].
+[13-04-23 21:37:04.977] 76561198092295074 "Manu" container +0 10842,10144,0 [Base.Jacket_WhiteTINT].
+[13-04-23 21:37:19.773] 76561197980741579 "Lil Banano" container -2 10842,10144,0 [Base.Screwdriver, Base.Hammer].
+[13-04-23 21:37:25.773] 76561197980741579 "Lil Banano" container -1 10842,10144,0 [Base.Shoes_BlackBoots].
+[13-04-23 21:37:44.924] 76561198092295074 "Manu" floor -1 10841,10151,0 [Base.Cigarettes].
+[13-04-23 21:37:52.774] 76561197980741579 "Lil Banano" container +0 10842,10144,0 [Base.BookFishing2].
+[13-04-23 21:37:55.775] 76561197980741579 "Lil Banano" container +0 10842,10144,0 [Base.Magazine].
+[13-04-23 21:37:58.775] 76561197980741579 "Lil Banano" container +0 10842,10144,0 [Base.RippedSheetsDirty].
+[13-04-23 21:38:01.775] 76561197980741579 "Lil Banano" container +0 10842,10144,0 [Base.CordlessPhone].
+[13-04-23 21:38:04.773] 76561197980741579 "Lil Banano" container +0 10842,10144,0 [Base.Shoes_Random].
+[13-04-23 21:39:46.125] 76561197980741579 "Lil Banano" floor +1 10888,10168,0 [Base.Glasses_Normal].
+[13-04-23 21:39:47.749] 76561198092295074 "Manu" floor +1 10888,10167,0 [Base.Glasses_Normal].
+[13-04-23 21:40:31.984] 76561198092295074 "Manu" container -1 10886,10159,0 [Base.Bandage].
+[13-04-23 21:40:37.781] 76561197980741579 "Lil Banano" container -1 10885,10161,0 [Base.JuiceBox].
+[13-04-23 21:40:40.773] 76561197980741579 "Lil Banano" container -1 10885,10161,0 [Base.Banana].
+[13-04-23 21:40:52.772] 76561197980741579 "Lil Banano" container -1 10880,10157,0 [Base.BookMetalWelding1].
+[13-04-23 21:41:16.931] 76561198092295074 "Manu" container -2 10886,10159,0 [Base.PillsVitamins].
+[13-04-23 21:41:50.578] 76561197980741579 "Lil Banano" floor +1 10882,10161,1 [Base.Hat_Ranger].
+[13-04-23 21:42:14.030] 76561198092295074 "Manu" container -1 10884,10163,1 [Base.Sheet].
+[13-04-23 21:42:16.929] 76561198092295074 "Manu" container -1 10884,10163,1 [Base.Pills].
+[13-04-23 21:42:58.775] 76561197980741579 "Lil Banano" container -1 10878,10157,1 [Base.BookMetalWelding2].
+[13-04-23 21:43:01.659] 76561197980741579 "Lil Banano" container -1 10879,10157,1 [Base.BookCooking2].
+[13-04-23 21:43:14.025] 76561198092295074 "Manu" container -1 10883,10164,0 [Base.TomatoPaste].
+[13-04-23 21:43:19.778] 76561197980741579 "Lil Banano" container -1 10887,10157,1 [Base.BookElectrician1].
+[13-04-23 21:43:25.286] 76561197980741579 "Lil Banano" container -1 10887,10157,1 [Base.BookMechanic1].
+[13-04-23 21:43:43.937] 76561198092295074 "Manu" container +0 10880,10157,0 [Base.BookTrapping3].
+[13-04-23 21:46:36.997] 76561197980741579 "Lil Banano" floor -1 10882,10161,1 [Base.Hat_Ranger].
+[13-04-23 21:46:46.776] 76561197980741579 "Lil Banano" container -1 10884,10163,1 [Base.PillsVitamins].
+[13-04-23 21:47:05.247] 76561197980741579 "Lil Banano" floor +1 10882,10159,0 [Base.BookMetalWelding2].
+[13-04-23 21:47:26.092] 76561197980741579 "Lil Banano" floor +1 10882,10159,0 [Base.BookTrapping1].
+[13-04-23 21:47:48.394] 76561197980741579 "Lil Banano" floor -1 10882,10159,0 [Base.BookMetalWelding2].
+[13-04-23 21:47:50.563] 76561197980741579 "Lil Banano" floor -1 10882,10159,0 [Base.BookTrapping1].
+[13-04-23 21:48:07.781] 76561197980741579 "Lil Banano" container +0 10880,10157,0 [Base.BookMetalWelding2].
+[13-04-23 21:48:23.355] 76561197980741579 "Lil Banano" floor +1 10880,10157,0 [Base.BookCooking2].
+[13-04-23 21:48:31.529] 76561197980741579 "Lil Banano" floor -1 10880,10157,0 [Base.BookCooking2].
+[13-04-23 21:48:40.785] 76561197980741579 "Lil Banano" container +0 10880,10157,0 [Base.BookCooking2].
+[13-04-23 21:48:46.784] 76561197980741579 "Lil Banano" container +0 10880,10157,0 [Base.BookElectrician1].
+[13-04-23 21:48:49.778] 76561197980741579 "Lil Banano" container +0 10880,10157,0 [Base.BookMetalWelding1].
+[13-04-23 21:48:52.778] 76561197980741579 "Lil Banano" container +0 10880,10157,0 [Base.BookMechanic1].
+[13-04-23 21:48:55.786] 76561197980741579 "Lil Banano" container +0 10880,10157,0 [Base.BookTrapping1].
+[13-04-23 21:50:22.917] 76561198092295074 "Manu" container -1 10883,10164,0 [Base.CannedPotato2].
+[13-04-23 21:50:45.203] 76561197980741579 "Lil Banano" container +0 10886,10159,0 [Base.RippedSheetsDirty].
+[13-04-23 21:51:04.916] 76561198092295074 "Manu" container +0 10882,10164,0 [Base.Pen, Base.BluePen, Base.RedPen].
+[13-04-23 21:51:10.777] 76561197980741579 "Lil Banano" container +0 10885,10161,0 [Base.DeadRat].
+[13-04-23 21:51:34.913] 76561198092295074 "Manu" container +0 10882,10164,0 [Base.Rope, Base.Vest_DefaultTEXTURE_TINT, Base.SewingKit, Base.DuctTape].
+[13-04-23 21:51:37.912] 76561198092295074 "Manu" container +0 10882,10164,0 [Base.Saw, Base.SheetRope, Base.TinCanEmpty].
+[13-04-23 21:51:40.914] 76561198092295074 "Manu" container +0 10882,10164,0 [Base.SheetRope, Base.Sheet, Base.Fork].
+[13-04-23 21:51:49.924] 76561198092295074 "Manu" container +0 10882,10164,0 [Base.Screwdriver].
+[13-04-23 21:51:55.933] 76561198092295074 "Manu" container +0 10882,10164,0 [Base.TinOpener].
+[13-04-23 21:53:22.779] 76561197980741579 "Lil Banano" container -1 10918,10131,0 [Base.Pot].
+[13-04-23 21:53:28.787] 76561197980741579 "Lil Banano" container -2 10918,10129,0 [Base.CannedCorn, Base.TomatoPaste].
+[13-04-23 21:53:28.920] 76561198092295074 "Manu" container -1 10916,10134,1 [Base.BookCarpentry1].
+[13-04-23 21:53:31.778] 76561197980741579 "Lil Banano" container -1 10918,10129,0 [Base.CannedFruitCocktail].
+[13-04-23 21:53:34.781] 76561197980741579 "Lil Banano" container -2 10918,10129,0 [Base.CannedCornedBeef, Base.CannedChili].
+[13-04-23 21:53:49.925] 76561198092295074 "Manu" container -1 10916,10133,1 [Base.BookCarpentry3].
+[13-04-23 21:53:52.777] 76561197980741579 "Lil Banano" container -1 10919,10129,0 [Base.BreadKnife].
+[13-04-23 21:53:53.018] 76561198092295074 "Manu" container -2 10916,10133,1 [Base.BookTailoring2, Base.BookFirstAid2].
+[13-04-23 21:53:55.781] 76561197980741579 "Lil Banano" container -1 10919,10129,0 [Base.Bowl].
+[13-04-23 21:53:58.790] 76561197980741579 "Lil Banano" container -1 10920,10129,0 [Base.Marinara].
+[13-04-23 21:54:01.787] 76561197980741579 "Lil Banano" container -1 10920,10129,0 [Base.Pepper].
+[13-04-23 21:54:04.788] 76561197980741579 "Lil Banano" container -1 10920,10129,0 [Base.BouillonCube].
+[13-04-23 21:54:07.784] 76561197980741579 "Lil Banano" container -2 10920,10129,0 [Base.DriedLentils, Base.Chocolate].
+[13-04-23 21:54:13.792] 76561197980741579 "Lil Banano" container -1 10920,10130,0 [Base.Lime].
+[13-04-23 21:54:16.786] 76561197980741579 "Lil Banano" container -1 10920,10130,0 [Base.Grapefruit].
+[13-04-23 21:54:22.781] 76561197980741579 "Lil Banano" container -1 10920,10130,0 [farming.Bacon].
+[13-04-23 21:54:25.787] 76561197980741579 "Lil Banano" container -1 10920,10130,0 [Base.CornFrozen].
+[13-04-23 21:55:19.791] 76561197980741579 "Lil Banano" container +0 10885,10161,0 [farming.Bacon].
+[13-04-23 21:55:28.788] 76561197980741579 "Lil Banano" container +0 10885,10161,0 [Base.PorkChop].
+[13-04-23 21:55:34.784] 76561197980741579 "Lil Banano" container +0 10885,10161,0 [Base.Lime].
+[13-04-23 21:55:40.779] 76561197980741579 "Lil Banano" container +0 10885,10161,0 [Base.CornFrozen].
+[13-04-23 21:56:16.786] 76561197980741579 "Lil Banano" container +0 10883,10164,0 [Base.CannedChili].
+[13-04-23 21:56:22.783] 76561197980741579 "Lil Banano" container +0 10883,10164,0 [Base.BreadKnife].
+[13-04-23 21:57:07.801] 76561197980741579 "Lil Banano" container +0 10883,10164,0 [Base.CannedMilk].
+[13-04-23 21:57:07.915] 76561198092295074 "Manu" container +0 10880,10157,0 [Base.BookTailoring2, Base.BookFirstAid2, Base.BookCarpentry1, Base.BookCarpentry3].
+[13-04-23 21:57:10.783] 76561197980741579 "Lil Banano" container +0 10883,10164,0 [Base.CannedCorn].
+[13-04-23 21:57:22.792] 76561197980741579 "Lil Banano" container +0 10884,10164,0 [Base.Pot].
+[13-04-23 21:57:28.788] 76561197980741579 "Lil Banano" container +0 10883,10164,0 [Base.BouillonCube].
+[13-04-23 21:57:31.792] 76561197980741579 "Lil Banano" container +0 10883,10164,0 [Base.TomatoPaste].
+[13-04-23 21:57:34.788] 76561197980741579 "Lil Banano" container +0 10883,10164,0 [Base.DriedLentils, Base.CannedFruitCocktail].
+[13-04-23 21:57:40.782] 76561197980741579 "Lil Banano" container +0 10883,10164,0 [Base.Pepper].
+[13-04-23 21:57:43.782] 76561197980741579 "Lil Banano" container +0 10883,10164,0 [Base.Pop].
+[13-04-23 21:57:46.791] 76561197980741579 "Lil Banano" container +0 10883,10164,0 [Base.Marinara].
+[13-04-23 21:57:59.468] 76561197980741579 "Lil Banano" floor +1 10882,10163,0 [Base.Eraser].
+[13-04-23 21:58:19.788] 76561197980741579 "Lil Banano" container +0 10885,10161,0 [Base.Grapefruit, Base.Banana].
+[13-04-23 21:58:55.782] 76561197980741579 "Lil Banano" container -1 10886,10163,0 [Base.HoodieDOWN_WhiteTINT].
+[13-04-23 21:58:58.792] 76561197980741579 "Lil Banano" container -1 10886,10163,0 [Base.Jumper_RoundNeck].
+[13-04-23 21:59:31.787] 76561197980741579 "Lil Banano" container +0 10886,10163,0 [Base.HoodieDOWN_WhiteTINT].
+[13-04-23 21:59:46.790] 76561197980741579 "Lil Banano" container +0 10886,10163,0 [Base.RippedSheetsDirty].
+[13-04-23 22:06:40.232] 76561197980741579 "Lil Banano" corpse +1 10879,10150,0.
+[13-04-23 22:07:13.798] 76561197980741579 "Lil Banano" container -1 10880,10157,0 [Base.BookMechanic1].
+[13-04-23 22:11:46.794] 76561197980741579 "Lil Banano" container -1 10884,10164,0 [Base.Pot].
+[13-04-23 22:12:34.792] 76561197980741579 "Lil Banano" container +0 10884,10164,0 [Base.WaterPot].
+[13-04-23 22:13:22.798] 76561197980741579 "Lil Banano" container -1 10884,10164,0 [Base.WaterPot].
+[13-04-23 22:13:49.795] 76561197980741579 "Lil Banano" container +0 10884,10164,0 [Base.WaterPot].
+[13-04-23 22:16:22.800] 76561197980741579 "Lil Banano" container -1 10885,10163,1 [Base.Soap2].
+[13-04-23 22:16:46.796] 76561197980741579 "Lil Banano" container +0 10885,10163,1 [Base.Soap2].
+[13-04-23 22:19:10.797] 76561197980741579 "Lil Banano" container -1 10887,10157,1 [Base.BookFishing4].
+[13-04-23 22:19:25.796] 76561197980741579 "Lil Banano" container +0 10880,10157,0 [Base.BookFishing4].

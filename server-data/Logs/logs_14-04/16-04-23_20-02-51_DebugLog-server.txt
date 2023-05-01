@@ -1,0 +1,400 @@
+[16-04-23 20:02:51.163] LOG  : General     , 1681675371163> 59,891> cachedir set to "/home/linuxgsm/Zomboid".
+[16-04-23 20:02:51.225] LOG  : General     , 1681675371225> 59,953> version=41.78.16 demo=false.
+[16-04-23 20:02:51.226] LOG  : General     , 1681675371226> 59,954> revision= date= time=.
+[16-04-23 20:02:51.226] LOG  : General     , 1681675371226> 59,954> unknown option "--ip".
+[16-04-23 20:02:51.226] LOG  : General     , 1681675371226> 59,954> unknown option "172.26.0.2".
+[16-04-23 20:02:51.228] LOG  : General     , 1681675371228> 59,956> server name is "uoasi_gorditos".
+[16-04-23 20:02:51.229] LOG  : General     , 1681675371229> 59,956> map_t.bin does not exist, cannot determine the server's WorldVersion.  This is ok the first time a server is started..
+[16-04-23 20:02:51.230] LOG  : General     , 1681675371230> 59,958> Loading networking libraries....
+[16-04-23 20:02:51.230] LOG  : General     , 1681675371230> 59,958> Loading steam_api....
+[16-04-23 20:02:51.230] LOG  : General     , 1681675371230> 59,958> Loading RakNet64....
+[16-04-23 20:02:51.233] LOG  : General     , 1681675371233> 59,961> Loading ZNetJNI64....
+[16-04-23 20:02:51.237] LOG  : Network     , 1681675371237> 59,965> [16-04-23 20:02:51.237] > ZNet: SetLogLevel 2.
+[16-04-23 20:02:51.239] LOG  : Network     , 1681675371239> 59,966> [16-04-23 20:02:51.239] > ZNet: SteamAPI initialised successfully.
+[16-04-23 20:02:51.239] LOG  : General     , 1681675371239> 59,967> SteamUtils initialised successfully.
+[16-04-23 20:02:51.616] LOG  : General     , 1681675371615> 60,343> translator: language is EN.
+[16-04-23 20:02:51.720] LOG  : General     , 1681675371720> 60,448> LightingFPS set to 15.
+[16-04-23 20:02:51.732] LOG  : General     , 1681675371732> 60,459> reading /home/linuxgsm/Zomboid/Server/uoasi_gorditos.ini.
+[16-04-23 20:02:51.733] LOG  : General     , 1681675371733> 60,461> writing /home/linuxgsm/Zomboid/Server/uoasi_gorditos.ini.
+[16-04-23 20:02:51.740] LOG  : Network     , 1681675371740> 60,468> [16-04-23 20:02:51.740] > ZNet: SZombienet -> SZombienet: Init.
+[16-04-23 20:02:51.836] LOG  : Network     , 1681675371836> 60,564> [16-04-23 20:02:51.836] > ZNet: SteamGameServer seems to be initialized.
+[16-04-23 20:02:51.837] LOG  : Network     , 1681675371837> 60,565> [16-04-23 20:02:51.837] > ZNet: SZombienet -> SSteamSDK: SetMaxPlayerCount.
+[16-04-23 20:02:51.841] LOG  : General     , 1681675371840> 60,568> Waiting for response from Steam servers.
+[16-04-23 20:02:52.842] LOG  : Network     , 1681675372842> 61,570> [16-04-23 20:02:52.842] > ZNet: SSteamSDK -> SZombienet: OnSteamServersConnected.
+[16-04-23 20:02:52.843] LOG  : Network     , 1681675372842> 61,570> [16-04-23 20:02:52.842] > ZNet: OnSteamServersConnected.
+[16-04-23 20:02:52.843] LOG  : Network     , 1681675372843> 61,571> [16-04-23 20:02:52.843] > ZNet: SZombienet -> SSteamSDK: SetMaxPlayerCount.
+[16-04-23 20:02:52.843] LOG  : Network     , 1681675372843> 61,571> [16-04-23 20:02:52.843] > ZNet: Public IP: 47.62.163.70.
+[16-04-23 20:02:53.079] LOG  : Network     , 1681675373079> 61,807> [16-04-23 20:02:53.079] > ZNet: SSteamSDK -> SZombienet: OnPolicyResponse.
+[16-04-23 20:02:53.079] LOG  : Network     , 1681675373079> 61,807> [16-04-23 20:02:53.079] > ZNet: OnPolicyResponse.
+[16-04-23 20:02:53.079] LOG  : Network     , 1681675373079> 61,807> [16-04-23 20:02:53.079] > ZNet: SZombienet -> SSteamSDK: BSecure.
+[16-04-23 20:02:53.080] LOG  : Network     , 1681675373080> 61,808> [16-04-23 20:02:53.080] > ZNet: Zomboid Server is VAC Secure.
+[16-04-23 20:02:53.183] LOG  : General     , 1681675373183> 61,911> Workshop: onItemQueryCompleted handle=1 numResult=38.
+[16-04-23 20:02:53.190] LOG  : General     , 1681675373190> 61,918> Workshop: GetItemState()=Installed ID=2753894806.
+[16-04-23 20:02:53.193] LOG  : General     , 1681675373193> 61,921> Workshop: item state CheckItemState -> Ready ID=2753894806.
+[16-04-23 20:02:53.193] LOG  : General     , 1681675373193> 61,921> Workshop: GetItemState()=Installed ID=2071347174.
+[16-04-23 20:02:53.193] LOG  : General     , 1681675373193> 61,921> Workshop: item state CheckItemState -> Ready ID=2071347174.
+[16-04-23 20:02:53.194] LOG  : General     , 1681675373194> 61,921> Workshop: GetItemState()=Installed ID=2808679062.
+[16-04-23 20:02:53.194] LOG  : General     , 1681675373194> 61,922> Workshop: item state CheckItemState -> Ready ID=2808679062.
+[16-04-23 20:02:53.194] LOG  : General     , 1681675373194> 61,922> Workshop: GetItemState()=Installed ID=2594865484.
+[16-04-23 20:02:53.194] LOG  : General     , 1681675373194> 61,922> Workshop: item state CheckItemState -> Ready ID=2594865484.
+[16-04-23 20:02:53.195] LOG  : General     , 1681675373194> 61,922> Workshop: GetItemState()=Installed ID=2313387159.
+[16-04-23 20:02:53.195] LOG  : General     , 1681675373195> 61,923> Workshop: item state CheckItemState -> Ready ID=2313387159.
+[16-04-23 20:02:53.195] LOG  : General     , 1681675373195> 61,923> Workshop: GetItemState()=Installed ID=2368058459.
+[16-04-23 20:02:53.195] LOG  : General     , 1681675373195> 61,923> Workshop: item state CheckItemState -> Ready ID=2368058459.
+[16-04-23 20:02:53.196] LOG  : General     , 1681675373195> 61,923> Workshop: GetItemState()=Installed ID=1759532925.
+[16-04-23 20:02:53.196] LOG  : General     , 1681675373196> 61,924> Workshop: item state CheckItemState -> Ready ID=1759532925.
+[16-04-23 20:02:53.196] LOG  : General     , 1681675373196> 61,924> Workshop: GetItemState()=Installed ID=2736059670.
+[16-04-23 20:02:53.196] LOG  : General     , 1681675373196> 61,924> Workshop: item state CheckItemState -> Ready ID=2736059670.
+[16-04-23 20:02:53.196] LOG  : General     , 1681675373196> 61,924> Workshop: GetItemState()=Installed ID=2711057211.
+[16-04-23 20:02:53.197] LOG  : General     , 1681675373197> 61,924> Workshop: item state CheckItemState -> Ready ID=2711057211.
+[16-04-23 20:02:53.197] LOG  : General     , 1681675373197> 61,925> Workshop: GetItemState()=Installed ID=2763647806.
+[16-04-23 20:02:53.197] LOG  : General     , 1681675373197> 61,925> Workshop: item state CheckItemState -> Ready ID=2763647806.
+[16-04-23 20:02:53.197] LOG  : General     , 1681675373197> 61,925> Workshop: GetItemState()=Installed ID=2804531012.
+[16-04-23 20:02:53.198] LOG  : General     , 1681675373197> 61,925> Workshop: item state CheckItemState -> Ready ID=2804531012.
+[16-04-23 20:02:53.198] LOG  : General     , 1681675373198> 61,926> Workshop: GetItemState()=Installed ID=2701170568.
+[16-04-23 20:02:53.198] LOG  : General     , 1681675373198> 61,926> Workshop: item state CheckItemState -> Ready ID=2701170568.
+[16-04-23 20:02:53.198] LOG  : General     , 1681675373198> 61,926> Workshop: GetItemState()=Installed ID=2717575749.
+[16-04-23 20:02:53.198] LOG  : General     , 1681675373198> 61,926> Workshop: item state CheckItemState -> Ready ID=2717575749.
+[16-04-23 20:02:53.199] LOG  : General     , 1681675373199> 61,926> Workshop: GetItemState()=Installed ID=2447729538.
+[16-04-23 20:02:53.199] LOG  : General     , 1681675373199> 61,927> Workshop: item state CheckItemState -> Ready ID=2447729538.
+[16-04-23 20:02:53.199] LOG  : General     , 1681675373199> 61,927> Workshop: GetItemState()=Installed ID=2616986064.
+[16-04-23 20:02:53.199] LOG  : General     , 1681675373199> 61,927> Workshop: item state CheckItemState -> Ready ID=2616986064.
+[16-04-23 20:02:53.200] LOG  : General     , 1681675373199> 61,927> Workshop: GetItemState()=Installed ID=2688538916.
+[16-04-23 20:02:53.200] LOG  : General     , 1681675373200> 61,928> Workshop: item state CheckItemState -> Ready ID=2688538916.
+[16-04-23 20:02:53.200] LOG  : General     , 1681675373200> 61,928> Workshop: GetItemState()=Installed ID=2732662310.
+[16-04-23 20:02:53.200] LOG  : General     , 1681675373200> 61,928> Workshop: item state CheckItemState -> Ready ID=2732662310.
+[16-04-23 20:02:53.200] LOG  : General     , 1681675373200> 61,928> Workshop: GetItemState()=Installed ID=2715911680.
+[16-04-23 20:02:53.201] LOG  : General     , 1681675373200> 61,928> Workshop: item state CheckItemState -> Ready ID=2715911680.
+[16-04-23 20:02:53.201] LOG  : General     , 1681675373201> 61,929> Workshop: GetItemState()=Installed ID=2710167561.
+[16-04-23 20:02:53.201] LOG  : General     , 1681675373201> 61,929> Workshop: item state CheckItemState -> Ready ID=2710167561.
+[16-04-23 20:02:53.201] LOG  : General     , 1681675373201> 61,929> Workshop: GetItemState()=Installed ID=2734705913.
+[16-04-23 20:02:53.201] LOG  : General     , 1681675373201> 61,929> Workshop: item state CheckItemState -> Ready ID=2734705913.
+[16-04-23 20:02:53.202] LOG  : General     , 1681675373201> 61,929> Workshop: GetItemState()=Installed ID=2685168362.
+[16-04-23 20:02:53.202] LOG  : General     , 1681675373202> 61,930> Workshop: item state CheckItemState -> Ready ID=2685168362.
+[16-04-23 20:02:53.202] LOG  : General     , 1681675373202> 61,930> Workshop: GetItemState()=Installed ID=2657661246.
+[16-04-23 20:02:53.202] LOG  : General     , 1681675373202> 61,930> Workshop: item state CheckItemState -> Ready ID=2657661246.
+[16-04-23 20:02:53.202] LOG  : General     , 1681675373202> 61,930> Workshop: GetItemState()=Installed ID=2845952197.
+[16-04-23 20:02:53.203] LOG  : General     , 1681675373203> 61,930> Workshop: item state CheckItemState -> Ready ID=2845952197.
+[16-04-23 20:02:53.203] LOG  : General     , 1681675373203> 61,931> Workshop: GetItemState()=Installed ID=2815560151.
+[16-04-23 20:02:53.203] LOG  : General     , 1681675373203> 61,931> Workshop: item state CheckItemState -> Ready ID=2815560151.
+[16-04-23 20:02:53.203] LOG  : General     , 1681675373203> 61,931> Workshop: GetItemState()=Installed ID=2704811006.
+[16-04-23 20:02:53.203] LOG  : General     , 1681675373203> 61,931> Workshop: item state CheckItemState -> Ready ID=2704811006.
+[16-04-23 20:02:53.204] LOG  : General     , 1681675373204> 61,931> Workshop: GetItemState()=Installed ID=2812326159.
+[16-04-23 20:02:53.204] LOG  : General     , 1681675373204> 61,932> Workshop: item state CheckItemState -> Ready ID=2812326159.
+[16-04-23 20:02:53.204] LOG  : General     , 1681675373204> 61,932> Workshop: GetItemState()=Installed ID=2769706949.
+[16-04-23 20:02:53.204] LOG  : General     , 1681675373204> 61,932> Workshop: item state CheckItemState -> Ready ID=2769706949.
+[16-04-23 20:02:53.205] LOG  : General     , 1681675373205> 61,932> Workshop: GetItemState()=Installed ID=2487022075.
+[16-04-23 20:02:53.205] LOG  : General     , 1681675373205> 61,933> Workshop: item state CheckItemState -> Ready ID=2487022075.
+[16-04-23 20:02:53.205] LOG  : General     , 1681675373205> 61,933> Workshop: GetItemState()=Installed ID=2687798127.
+[16-04-23 20:02:53.205] LOG  : General     , 1681675373205> 61,933> Workshop: item state CheckItemState -> Ready ID=2687798127.
+[16-04-23 20:02:53.205] LOG  : General     , 1681675373205> 61,933> Workshop: GetItemState()=Installed ID=2619072426.
+[16-04-23 20:02:53.206] LOG  : General     , 1681675373206> 61,933> Workshop: item state CheckItemState -> Ready ID=2619072426.
+[16-04-23 20:02:53.206] LOG  : General     , 1681675373206> 61,934> Workshop: GetItemState()=Installed ID=2696083206.
+[16-04-23 20:02:53.206] LOG  : General     , 1681675373206> 61,934> Workshop: item state CheckItemState -> Ready ID=2696083206.
+[16-04-23 20:02:53.206] LOG  : General     , 1681675373206> 61,934> Workshop: GetItemState()=Installed ID=2763647806.
+[16-04-23 20:02:53.206] LOG  : General     , 1681675373206> 61,934> Workshop: item state CheckItemState -> Ready ID=2763647806.
+[16-04-23 20:02:53.207] LOG  : General     , 1681675373207> 61,934> Workshop: GetItemState()=Installed ID=2685168362.
+[16-04-23 20:02:53.207] LOG  : General     , 1681675373207> 61,935> Workshop: item state CheckItemState -> Ready ID=2685168362.
+[16-04-23 20:02:53.207] LOG  : General     , 1681675373207> 61,935> Workshop: GetItemState()=Installed ID=2835829018.
+[16-04-23 20:02:53.207] LOG  : General     , 1681675373207> 61,935> Workshop: item state CheckItemState -> Ready ID=2835829018.
+[16-04-23 20:02:53.207] LOG  : General     , 1681675373207> 61,935> Workshop: GetItemState()=Installed ID=2282429356.
+[16-04-23 20:02:53.208] LOG  : General     , 1681675373208> 61,936> Workshop: item state CheckItemState -> Ready ID=2282429356.
+[16-04-23 20:02:53.208] LOG  : General     , 1681675373208> 61,936> Workshop: GetItemState()=Installed ID=2004998206.
+[16-04-23 20:02:53.208] LOG  : General     , 1681675373208> 61,936> Workshop: item state CheckItemState -> Ready ID=2004998206.
+[16-04-23 20:02:53.208] LOG  : General     , 1681675373208> 61,936> Workshop: GetItemState()=Installed ID=2196102849.
+[16-04-23 20:02:53.209] LOG  : General     , 1681675373209> 61,936> Workshop: item state CheckItemState -> Ready ID=2196102849.
+[16-04-23 20:02:53.209] LOG  : General     , 1681675373209> 61,937> Workshop: GetItemState()=Installed ID=2200148440.
+[16-04-23 20:02:53.209] LOG  : General     , 1681675373209> 61,937> Workshop: item state CheckItemState -> Ready ID=2200148440.
+[16-04-23 20:02:53.209] LOG  : General     , 1681675373209> 61,937> Workshop: GetItemState()=Installed ID=2849247394.
+[16-04-23 20:02:53.209] LOG  : General     , 1681675373209> 61,937> Workshop: item state CheckItemState -> Ready ID=2849247394.
+[16-04-23 20:02:53.210] LOG  : General     , 1681675373210> 61,937> Workshop: GetItemState()=Installed ID=639909479.
+[16-04-23 20:02:53.210] LOG  : General     , 1681675373210> 61,938> Workshop: item state CheckItemState -> Ready ID=639909479.
+[16-04-23 20:02:53.210] LOG  : General     , 1681675373210> 61,938> Workshop: GetItemState()=Installed ID=2487022075.
+[16-04-23 20:02:53.210] LOG  : General     , 1681675373210> 61,938> Workshop: item state CheckItemState -> Ready ID=2487022075.
+[16-04-23 20:02:53.212] LOG  : General     , 1681675373212> 61,940> Workshop: 2753894806 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2753894806.
+[16-04-23 20:02:53.213] LOG  : General     , 1681675373213> 61,941> Workshop: 2071347174 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2071347174.
+[16-04-23 20:02:53.213] LOG  : General     , 1681675373213> 61,941> Workshop: 2808679062 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2808679062.
+[16-04-23 20:02:53.214] LOG  : General     , 1681675373213> 61,941> Workshop: 2594865484 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2594865484.
+[16-04-23 20:02:53.214] LOG  : General     , 1681675373214> 61,942> Workshop: 2313387159 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2313387159.
+[16-04-23 20:02:53.214] LOG  : General     , 1681675373214> 61,942> Workshop: 2368058459 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2368058459.
+[16-04-23 20:02:53.215] LOG  : General     , 1681675373215> 61,942> Workshop: 1759532925 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/1759532925.
+[16-04-23 20:02:53.215] LOG  : General     , 1681675373215> 61,943> Workshop: 2736059670 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2736059670.
+[16-04-23 20:02:53.215] LOG  : General     , 1681675373215> 61,943> Workshop: 2711057211 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2711057211.
+[16-04-23 20:02:53.216] LOG  : General     , 1681675373216> 61,944> Workshop: 2763647806 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2763647806.
+[16-04-23 20:02:53.216] LOG  : General     , 1681675373216> 61,944> Workshop: 2804531012 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2804531012.
+[16-04-23 20:02:53.217] LOG  : General     , 1681675373217> 61,945> Workshop: 2701170568 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2701170568.
+[16-04-23 20:02:53.217] LOG  : General     , 1681675373217> 61,945> Workshop: 2717575749 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2717575749.
+[16-04-23 20:02:53.217] LOG  : General     , 1681675373217> 61,945> Workshop: 2447729538 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2447729538.
+[16-04-23 20:02:53.218] LOG  : General     , 1681675373218> 61,946> Workshop: 2616986064 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2616986064.
+[16-04-23 20:02:53.218] LOG  : General     , 1681675373218> 61,946> Workshop: 2688538916 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2688538916.
+[16-04-23 20:02:53.219] LOG  : General     , 1681675373218> 61,946> Workshop: 2732662310 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2732662310.
+[16-04-23 20:02:53.219] LOG  : General     , 1681675373219> 61,947> Workshop: 2715911680 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2715911680.
+[16-04-23 20:02:53.219] LOG  : General     , 1681675373219> 61,947> Workshop: 2710167561 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2710167561.
+[16-04-23 20:02:53.220] LOG  : General     , 1681675373219> 61,947> Workshop: 2734705913 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2734705913.
+[16-04-23 20:02:53.220] LOG  : General     , 1681675373220> 61,948> Workshop: 2685168362 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2685168362.
+[16-04-23 20:02:53.220] LOG  : General     , 1681675373220> 61,948> Workshop: 2657661246 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2657661246.
+[16-04-23 20:02:53.220] LOG  : General     , 1681675373220> 61,948> Workshop: 2845952197 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2845952197.
+[16-04-23 20:02:53.221] LOG  : General     , 1681675373221> 61,949> Workshop: 2815560151 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2815560151.
+[16-04-23 20:02:53.221] LOG  : General     , 1681675373221> 61,949> Workshop: 2704811006 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2704811006.
+[16-04-23 20:02:53.221] LOG  : General     , 1681675373221> 61,949> Workshop: 2812326159 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2812326159.
+[16-04-23 20:02:53.222] LOG  : General     , 1681675373222> 61,950> Workshop: 2769706949 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2769706949.
+[16-04-23 20:02:53.222] LOG  : General     , 1681675373222> 61,950> Workshop: 2487022075 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2487022075.
+[16-04-23 20:02:53.223] LOG  : General     , 1681675373222> 61,950> Workshop: 2687798127 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2687798127.
+[16-04-23 20:02:53.223] LOG  : General     , 1681675373223> 61,951> Workshop: 2619072426 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2619072426.
+[16-04-23 20:02:53.223] LOG  : General     , 1681675373223> 61,951> Workshop: 2696083206 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2696083206.
+[16-04-23 20:02:53.224] LOG  : General     , 1681675373224> 61,951> Workshop: 2763647806 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2763647806.
+[16-04-23 20:02:53.224] LOG  : General     , 1681675373224> 61,952> Workshop: 2685168362 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2685168362.
+[16-04-23 20:02:53.224] LOG  : General     , 1681675373224> 61,952> Workshop: 2835829018 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2835829018.
+[16-04-23 20:02:53.225] LOG  : General     , 1681675373225> 61,953> Workshop: 2282429356 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2282429356.
+[16-04-23 20:02:53.225] LOG  : General     , 1681675373225> 61,953> Workshop: 2004998206 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2004998206.
+[16-04-23 20:02:53.225] LOG  : General     , 1681675373225> 61,953> Workshop: 2196102849 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2196102849.
+[16-04-23 20:02:53.226] LOG  : General     , 1681675373226> 61,954> Workshop: 2200148440 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2200148440.
+[16-04-23 20:02:53.226] LOG  : General     , 1681675373226> 61,954> Workshop: 2849247394 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2849247394.
+[16-04-23 20:02:53.226] LOG  : General     , 1681675373226> 61,954> Workshop: 639909479 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/639909479.
+[16-04-23 20:02:53.227] LOG  : General     , 1681675373227> 61,955> Workshop: 2487022075 installed to /home/linuxgsm/serverfiles/steamapps/workshop/content/108600/2487022075.
+[16-04-23 20:02:53.228] LOG  : General     , 1681675373228> 61,956> Start making backup to: /home/linuxgsm/Zomboid/backups/startup.
+[16-04-23 20:02:53.313] LOG  : General     , 1681675373312> 62,040> compressionElapsed=58ms, mergingElapsed=18ms.
+[16-04-23 20:02:53.315] LOG  : General     , 1681675373315> 62,043> Backup made in 86 ms.
+[16-04-23 20:02:53.317] LOG  : General     , 1681675373317> 62,044> user database "/home/linuxgsm/Zomboid/db/uoasi_gorditos.db".
+[16-04-23 20:02:53.614] LOG  : General     , 1681675373614> 62,342> admin password changed via -adminpassword option.
+[16-04-23 20:02:53.614] LOG  : General     , 1681675373614> 62,342> Router detection/configuration starting..
+[16-04-23 20:02:53.614] LOG  : General     , 1681675373614> 62,342> If the server hangs here, set UPnP=false..
+[16-04-23 20:03:05.627] LOG  : Network     , 1681675385627> 74,355> No UPnP-enabled Internet gateway found, you must configure port forwarding on your gateway manually in order to make your server accessible from the Internet..
+[16-04-23 20:03:05.628] LOG  : Network     , 1681675385628> 74,356> Initialising Server Systems....
+[16-04-23 20:03:06.406] LOG  : Lua         , 1681675386406> 75,134> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[16-04-23 20:03:07.658] LOG  : General     , 1681675387651> 76,383> scriptChecksum: 65f5e46ef1be089d5adca89001729e9c.
+[16-04-23 20:03:07.671] WARN : Recipe      , 1681675387671> 76,399> RecipeManager.resolveItemModuleDotType> WARNING: module "Base" may have forgot to import module Base.
+[16-04-23 20:03:07.680] WARN : Script      , 1681675387680> 76,408> ModelScript.check> no such model "null" for Base.BareHands.
+[16-04-23 20:03:07.682] WARN : Script      , 1681675387681> 76,409> ModelScript.check> no such model "???.DisposableRazor" for Base.Razor.
+[16-04-23 20:03:07.688] WARN : Script      , 1681675387688> 76,416> ModelScript.check> no such model "Chainsaw" for Base.Chainsaw.
+[16-04-23 20:03:08.186] LOG  : General     , 1681675388186> 76,914> LOADING ASSETS: START.
+[16-04-23 20:03:37.905] LOG  : General     , 1681675417874> 106,624> LOADING ASSETS: FINISH.
+[16-04-23 20:03:38.021] LOG  : Lua         , 1681675418018> 106,748> Loading: media/lua/shared/a_requires.lua.
+[16-04-23 20:03:38.040] LOG  : Lua         , 1681675418040> 106,768> Loading: media/lua/shared/defines.lua.
+[16-04-23 20:03:38.045] LOG  : Lua         , 1681675418045> 106,772> Loading: media/lua/shared/Definitions/AttachedWeaponDefinitions.lua.
+[16-04-23 20:03:38.055] LOG  : Lua         , 1681675418055> 106,783> Loading: media/lua/shared/Definitions/ClothingRecipesDefinitions.lua.
+[16-04-23 20:03:38.056] LOG  : Lua         , 1681675418056> 106,784> Loading: media/lua/shared/Definitions/ClothingSelectionDefinitions.lua.
+[16-04-23 20:03:38.060] LOG  : Lua         , 1681675418060> 106,788> Loading: media/lua/shared/Definitions/ContainerButtonIcons.lua.
+[16-04-23 20:03:38.101] LOG  : Lua         , 1681675418100> 106,828> Loading: media/lua/shared/Definitions/DamageModelDefinitions.lua.
+[16-04-23 20:03:38.106] LOG  : Lua         , 1681675418106> 106,834> Loading: media/lua/shared/Definitions/DefaultClothing.lua.
+[16-04-23 20:03:38.107] LOG  : Lua         , 1681675418107> 106,834> Loading: media/lua/shared/Definitions/FitnessExercises.lua.
+[16-04-23 20:03:38.111] LOG  : Lua         , 1681675418111> 106,839> Loading: media/lua/shared/Definitions/HairOutfitDefinitions.lua.
+[16-04-23 20:03:38.112] LOG  : Lua         , 1681675418112> 106,840> Loading: media/lua/shared/Definitions/MakeUpDefinitions.lua.
+[16-04-23 20:03:38.115] LOG  : Lua         , 1681675418115> 106,843> Loading: media/lua/shared/Definitions/MapSymbolDefinitions.lua.
+[16-04-23 20:03:38.126] LOG  : Lua         , 1681675418126> 106,854> Loading: media/lua/shared/Definitions/SmashedCarDefinitions.lua.
+[16-04-23 20:03:38.129] LOG  : Lua         , 1681675418129> 106,856> Loading: media/lua/shared/Definitions/UnderwearDefinition.lua.
+[16-04-23 20:03:38.131] LOG  : Lua         , 1681675418131> 106,859> Loading: media/lua/shared/Fishing/fishing_properties.lua.
+[16-04-23 20:03:38.141] LOG  : Lua         , 1681675418141> 106,869> Loading: media/lua/shared/Foraging/forageDefinitions.lua.
+[16-04-23 20:03:38.181] LOG  : Lua         , 1681675418175> 106,908> Loading: media/lua/shared/Foraging/forageSystem.lua.
+[16-04-23 20:03:38.190] LOG  : Lua         , 1681675418189> 106,917> Loading: media/lua/shared/ISBaseObject.lua.
+[16-04-23 20:03:38.190] LOG  : Lua         , 1681675418190> 106,918> Loading: media/lua/shared/iwbumstempmodelcompat.lua.
+[16-04-23 20:03:38.191] LOG  : Lua         , 1681675418191> 106,919> Loading: media/lua/shared/JoyPad/JoyPadSetup.lua.
+[16-04-23 20:03:38.198] LOG  : Lua         , 1681675418198> 106,926> Loading: media/lua/shared/keyBinding.lua.
+[16-04-23 20:03:38.202] LOG  : Lua         , 1681675418202> 106,930> Loading: media/lua/shared/Logs/ISLogSystem.lua.
+[16-04-23 20:03:38.205] LOG  : Lua         , 1681675418205> 106,933> Loading: media/lua/shared/Logs/ISPerkLog.lua.
+[16-04-23 20:03:38.239] LOG  : Lua         , 1681675418233> 106,966> Loading: media/lua/shared/luautils.lua.
+[16-04-23 20:03:38.281] LOG  : Lua         , 1681675418270> 107,008> Loading: media/lua/shared/NPCs/AttachedLocations.lua.
+[16-04-23 20:03:38.323] LOG  : Lua         , 1681675418316> 107,050> Loading: media/lua/shared/NPCs/BodyLocations.lua.
+[16-04-23 20:03:38.345] LOG  : Lua         , 1681675418337> 107,072> Loading: media/lua/shared/NPCs/MainCreationMethods.lua.
+[16-04-23 20:03:38.384] LOG  : Lua         , 1681675418377> 107,111> Loading: media/lua/shared/NPCs/ZombiesZoneDefinition.lua.
+[16-04-23 20:03:38.389] LOG  : Lua         , 1681675418389> 107,116> Loading: media/lua/shared/RecordedMedia/ISRecordeMedia.lua.
+[16-04-23 20:03:38.390] LOG  : Lua         , 1681675418390> 107,118> Loading: media/lua/shared/RecordedMedia/recorded_media.lua.
+[16-04-23 20:03:47.939] LOG  : Lua         , 1681675427925> 116,667> Loading: media/lua/shared/Reloading/ISRackAction.lua.
+[16-04-23 20:03:47.946] LOG  : Lua         , 1681675427946> 116,674> Loading: media/lua/shared/TimedActions/ISBaseTimedAction.lua.
+[16-04-23 20:03:47.951] LOG  : Lua         , 1681675427951> 116,679> Loading: media/lua/shared/Reloading/ISReloadable.lua.
+[16-04-23 20:03:47.953] LOG  : Lua         , 1681675427953> 116,681> Loading: media/lua/shared/Reloading/ISReloadableMagazine.lua.
+[16-04-23 20:03:47.955] LOG  : Lua         , 1681675427955> 116,682> Loading: media/lua/shared/Reloading/ISReloadableWeapon.lua.
+[16-04-23 20:03:47.956] LOG  : Lua         , 1681675427956> 116,684> Loading: media/lua/shared/Reloading/ISReloadAction.lua.
+[16-04-23 20:03:47.957] LOG  : Lua         , 1681675427957> 116,684> Loading: media/lua/shared/Reloading/ISReloadManager.lua.
+[16-04-23 20:03:47.962] LOG  : Lua         , 1681675427962> 116,690> Loading: media/lua/shared/Reloading/ISReloadUtil.lua.
+[16-04-23 20:03:47.964] LOG  : Lua         , 1681675427964> 116,692> Loading: media/lua/shared/Reloading/ISSemiAutoWeapon.lua.
+[16-04-23 20:03:47.967] LOG  : Lua         , 1681675427967> 116,695> Loading: media/lua/shared/Reloading/ISShotgunWeapon.lua.
+[16-04-23 20:03:47.981] LOG  : Lua         , 1681675427981> 116,709> Loading: media/lua/shared/Reloading/ISRevolverWeapon.lua.
+[16-04-23 20:03:47.982] LOG  : Lua         , 1681675427982> 116,710> Loading: media/lua/shared/Reloading/stormysReload.lua.
+[16-04-23 20:03:47.983] LOG  : Lua         , 1681675427983> 116,711> Loading: media/lua/shared/Sandbox/Beginner.lua.
+[16-04-23 20:03:47.984] LOG  : Lua         , 1681675427984> 116,712> Loading: media/lua/shared/Sandbox/Builder.lua.
+[16-04-23 20:03:47.985] LOG  : Lua         , 1681675427985> 116,713> Loading: media/lua/shared/Sandbox/FirstWeek.lua.
+[16-04-23 20:03:47.985] LOG  : Lua         , 1681675427985> 116,713> Loading: media/lua/shared/Sandbox/SandboxVars.lua.
+[16-04-23 20:03:47.986] LOG  : Lua         , 1681675427986> 116,714> Loading: media/lua/shared/Sandbox/Survival.lua.
+[16-04-23 20:03:47.992] LOG  : Lua         , 1681675427992> 116,719> Loading: media/lua/shared/Sandbox/SixMonthsLater.lua.
+[16-04-23 20:03:47.992] LOG  : Lua         , 1681675427992> 116,720> Loading: media/lua/shared/Sandbox/Survivor.lua.
+[16-04-23 20:03:47.994] LOG  : Lua         , 1681675427994> 116,722> Loading: media/lua/shared/SoundBanks/SoundBanks.lua.
+[16-04-23 20:03:47.997] LOG  : Lua         , 1681675427997> 116,725> Loading: media/lua/shared/SpawnRegions.lua.
+[16-04-23 20:03:48.000] LOG  : Lua         , 1681675428000> 116,728> Loading: media/lua/shared/StashDescriptions/LouisvilleStashDesc.lua.
+[16-04-23 20:03:48.006] LOG  : Lua         , 1681675428006> 116,733> Loading: media/lua/shared/StashDescriptions/StashUtil.lua.
+[16-04-23 20:03:48.007] LOG  : Lua         , 1681675428007> 116,735> Loading: media/lua/shared/StashDescriptions/MarchRidgeStashDesc.lua.
+[16-04-23 20:03:48.008] LOG  : Lua         , 1681675428008> 116,736> Loading: media/lua/shared/StashDescriptions/MulStashDesc.lua.
+[16-04-23 20:03:48.010] LOG  : Lua         , 1681675428010> 116,738> Loading: media/lua/shared/StashDescriptions/RiversideStashDesc.lua.
+[16-04-23 20:03:48.011] LOG  : Lua         , 1681675428011> 116,739> Loading: media/lua/shared/StashDescriptions/RosewoodStashDesc.lua.
+[16-04-23 20:03:48.012] LOG  : Lua         , 1681675428012> 116,740> Loading: media/lua/shared/StashDescriptions/WpStashDesc.lua.
+[16-04-23 20:03:48.014] LOG  : Lua         , 1681675428014> 116,742> Loading: media/lua/shared/Util/AdjacentFreeTileFinder.lua.
+[16-04-23 20:03:48.016] LOG  : Lua         , 1681675428016> 116,744> Loading: media/lua/shared/Util/BuildingHelper.lua.
+[16-04-23 20:03:48.020] LOG  : Lua         , 1681675428020> 116,748> Loading: media/lua/shared/Util/ISPriorityTable.lua.
+[16-04-23 20:03:48.021] LOG  : Lua         , 1681675428020> 116,748> Loading: media/lua/shared/Util/LuaList.lua.
+[16-04-23 20:03:48.024] LOG  : Lua         , 1681675428023> 116,751> Loading: media/lua/shared/Util/LuaNet.lua.
+[16-04-23 20:03:48.046] LOG  : Lua         , 1681675428046> 116,774> Loading: media/lua/shared/Util/StringReplacer.lua.
+[16-04-23 20:03:48.047] LOG  : Lua         , 1681675428047> 116,775> Loading: media/lua/shared/VehicleZoneDefinition.lua.
+[16-04-23 20:03:48.567] LOG  : Lua         , 1681675428559> 117,294> Loading: media/lua/server/BuildingObjects/ISAnvil.lua.
+[16-04-23 20:03:48.570] LOG  : Lua         , 1681675428569> 117,297> Loading: media/lua/server/BuildingObjects/ISBuildingObject.lua.
+[16-04-23 20:03:48.575] LOG  : Lua         , 1681675428575> 117,303> Loading: media/lua/server/BuildingObjects/ISBarbedWire.lua.
+[16-04-23 20:03:48.576] LOG  : Lua         , 1681675428576> 117,304> Loading: media/lua/server/BuildingObjects/ISBrushToolTileCursor.lua.
+[16-04-23 20:03:48.577] LOG  : Lua         , 1681675428577> 117,304> Loading: media/lua/server/BuildingObjects/ISBSFurnace.lua.
+[16-04-23 20:03:48.577] LOG  : Lua         , 1681675428577> 117,305> Loading: media/lua/server/BuildingObjects/ISBuildCursorMouse.lua.
+[16-04-23 20:03:48.578] LOG  : Lua         , 1681675428578> 117,306> Loading: media/lua/server/BuildingObjects/ISBuildUtil.lua.
+[16-04-23 20:03:48.580] LOG  : Lua         , 1681675428580> 117,308> Loading: media/lua/server/BuildingObjects/ISChopTreeCursor.lua.
+[16-04-23 20:03:48.581] LOG  : Lua         , 1681675428581> 117,309> Loading: media/lua/server/BuildingObjects/ISCleanBloodCursor.lua.
+[16-04-23 20:03:48.582] LOG  : Lua         , 1681675428582> 117,310> Loading: media/lua/server/BuildingObjects/ISCompost.lua.
+[16-04-23 20:03:48.582] LOG  : Lua         , 1681675428582> 117,310> Loading: media/lua/server/BuildingObjects/ISDestroyCursor.lua.
+[16-04-23 20:03:48.584] LOG  : Lua         , 1681675428584> 117,312> Loading: media/lua/server/BuildingObjects/ISDoubleDoor.lua.
+[16-04-23 20:03:48.585] LOG  : Lua         , 1681675428585> 117,313> Loading: media/lua/server/BuildingObjects/ISDoubleTileFurniture.lua.
+[16-04-23 20:03:48.586] LOG  : Lua         , 1681675428586> 117,314> Loading: media/lua/server/BuildingObjects/ISEmptyGraves.lua.
+[16-04-23 20:03:48.588] LOG  : Lua         , 1681675428587> 117,315> Loading: media/lua/server/BuildingObjects/ISLightSource.lua.
+[16-04-23 20:03:48.588] LOG  : Lua         , 1681675428588> 117,316> Loading: media/lua/server/BuildingObjects/ISMoveableCursor.lua.
+[16-04-23 20:03:48.604] LOG  : Lua         , 1681675428604> 117,332> Loading: media/lua/server/BuildingObjects/ISNaturalFloor.lua.
+[16-04-23 20:03:48.605] LOG  : Lua         , 1681675428605> 117,333> Loading: media/lua/server/BuildingObjects/ISPaintCursor.lua.
+[16-04-23 20:03:48.606] LOG  : Lua         , 1681675428606> 117,334> Loading: media/lua/server/BuildingObjects/ISPlace3DItemCursor.lua.
+[16-04-23 20:03:48.608] LOG  : Lua         , 1681675428607> 117,335> Loading: media/lua/server/BuildingObjects/ISRemovePlantCursor.lua.
+[16-04-23 20:03:48.608] LOG  : Lua         , 1681675428608> 117,336> Loading: media/lua/server/BuildingObjects/ISSelectCursor.lua.
+[16-04-23 20:03:48.609] LOG  : Lua         , 1681675428609> 117,337> Loading: media/lua/server/BuildingObjects/ISShovelGroundCursor.lua.
+[16-04-23 20:03:48.610] LOG  : Lua         , 1681675428610> 117,338> Loading: media/lua/server/BuildingObjects/ISSimpleFurniture.lua.
+[16-04-23 20:03:48.611] LOG  : Lua         , 1681675428611> 117,339> Loading: media/lua/server/BuildingObjects/ISWalkToCursor.lua.
+[16-04-23 20:03:48.611] LOG  : Lua         , 1681675428611> 117,339> Loading: media/lua/server/BuildingObjects/ISWoodenContainer.lua.
+[16-04-23 20:03:48.613] LOG  : Lua         , 1681675428613> 117,341> Loading: media/lua/server/BuildingObjects/ISWoodenDoor.lua.
+[16-04-23 20:03:48.614] LOG  : Lua         , 1681675428614> 117,342> Loading: media/lua/server/BuildingObjects/ISWoodenDoorFrame.lua.
+[16-04-23 20:03:48.615] LOG  : Lua         , 1681675428614> 117,342> Loading: media/lua/server/BuildingObjects/ISWoodenFloor.lua.
+[16-04-23 20:03:48.615] LOG  : Lua         , 1681675428615> 117,343> Loading: media/lua/server/BuildingObjects/ISWoodenStairs.lua.
+[16-04-23 20:03:48.616] LOG  : Lua         , 1681675428616> 117,344> Loading: media/lua/server/BuildingObjects/ISWoodenWall.lua.
+[16-04-23 20:03:48.616] LOG  : Lua         , 1681675428616> 117,344> Loading: media/lua/server/BuildingObjects/PaintingReference.lua.
+[16-04-23 20:03:48.618] LOG  : Lua         , 1681675428618> 117,345> Loading: media/lua/server/Camping/BuildingObjects/campingCampfire.lua.
+[16-04-23 20:03:48.619] LOG  : Lua         , 1681675428619> 117,347> Loading: media/lua/server/Camping/BuildingObjects/campingTent.lua.
+[16-04-23 20:03:48.620] LOG  : Lua         , 1681675428620> 117,347> Loading: media/lua/server/Camping/camping_fuel.lua.
+[16-04-23 20:03:48.623] LOG  : Lua         , 1681675428623> 117,351> Loading: media/lua/server/Camping/camping_tent.lua.
+[16-04-23 20:03:48.624] LOG  : Lua         , 1681675428624> 117,351> Loading: media/lua/server/Camping/camping_text.lua.
+[16-04-23 20:03:48.627] LOG  : Lua         , 1681675428627> 117,355> Loading: media/lua/server/Camping/SCampfireGlobalObject.lua.
+[16-04-23 20:03:48.628] LOG  : Lua         , 1681675428628> 117,356> Loading: media/lua/server/Map/SGlobalObject.lua.
+[16-04-23 20:03:48.629] LOG  : Lua         , 1681675428629> 117,357> Loading: media/lua/server/Camping/SCampfireSystem.lua.
+[16-04-23 20:03:48.630] LOG  : Lua         , 1681675428630> 117,358> Loading: media/lua/server/Map/SGlobalObjectSystem.lua.
+[16-04-23 20:03:48.648] LOG  : Lua         , 1681675428648> 117,376> Loading: media/lua/server/Camping/SCampfireSystemCommands.lua.
+[16-04-23 20:03:48.649] LOG  : Lua         , 1681675428649> 117,377> Loading: media/lua/server/ClientCommands.lua.
+[16-04-23 20:03:48.651] LOG  : Lua         , 1681675428651> 117,379> Loading: media/lua/server/Climate/ClimateMain.lua.
+[16-04-23 20:03:48.652] LOG  : Lua         , 1681675428652> 117,380> Loading: media/lua/server/Farming/BuildingObjects/farmingPlot.lua.
+[16-04-23 20:03:48.652] LOG  : Lua         , 1681675428652> 117,380> Loading: media/lua/server/Farming/BuildingObjects/ISFarmingCursor.lua.
+[16-04-23 20:03:48.653] LOG  : Lua         , 1681675428653> 117,381> Loading: media/lua/server/Farming/BuildingObjects/ISFarmingCursorMouse.lua.
+[16-04-23 20:03:48.654] LOG  : Lua         , 1681675428654> 117,382> Loading: media/lua/server/Farming/farming_vegetableconf.lua.
+[16-04-23 20:03:48.662] LOG  : Lua         , 1681675428662> 117,390> Loading: media/lua/server/Farming/farmingCommands.lua.
+[16-04-23 20:03:48.663] LOG  : Lua         , 1681675428663> 117,390> Loading: media/lua/server/Farming/SFarmingSystem.lua.
+[16-04-23 20:03:48.664] LOG  : Lua         , 1681675428664> 117,391> Loading: media/lua/server/Farming/ScavengeDefinition.lua.
+[16-04-23 20:03:48.669] LOG  : Lua         , 1681675428669> 117,397> Loading: media/lua/server/Farming/SPlantGlobalObject.lua.
+[16-04-23 20:03:48.671] LOG  : Lua         , 1681675428671> 117,398> Loading: media/lua/server/FireFighting/FireFighting.lua.
+[16-04-23 20:03:48.671] LOG  : Lua         , 1681675428671> 117,399> Loading: media/lua/server/FireFighting/ISExtinguishCursor.lua.
+[16-04-23 20:03:48.672] LOG  : Lua         , 1681675428672> 117,400> Loading: media/lua/server/Fishing/BuildingObjects/FishingNet.lua.
+[16-04-23 20:03:48.672] LOG  : Lua         , 1681675428672> 117,400> Loading: media/lua/server/Foraging/forageServer.lua.
+[16-04-23 20:03:48.673] LOG  : Lua         , 1681675428673> 117,401> Loading: media/lua/server/HealthSystem/HealthUpdate.lua.
+[16-04-23 20:03:48.673] LOG  : Lua         , 1681675428673> 117,401> Loading: media/lua/server/ISBuildingBlueprintManager.lua.
+[16-04-23 20:03:48.674] LOG  : Lua         , 1681675428674> 117,401> Loading: media/lua/server/ISCoordConversion.lua.
+[16-04-23 20:03:48.674] LOG  : Lua         , 1681675428674> 117,402> Loading: media/lua/server/ISObjectClickHandler.lua.
+[16-04-23 20:03:48.675] LOG  : Lua         , 1681675428675> 117,403> Loading: media/lua/server/Items/AcceptItemFunction.lua.
+[16-04-23 20:03:48.676] LOG  : Lua         , 1681675428676> 117,404> Loading: media/lua/server/Items/ApplianceOverlays.lua.
+[16-04-23 20:03:48.686] LOG  : Lua         , 1681675428686> 117,414> Loading: media/lua/server/Items/BentFences.lua.
+[16-04-23 20:03:48.693] LOG  : Lua         , 1681675428693> 117,421> Loading: media/lua/server/Items/BrokenFences.lua.
+[16-04-23 20:03:48.736] LOG  : Lua         , 1681675428736> 117,464> Loading: media/lua/server/Items/CounterOverlays.lua.
+[16-04-23 20:03:48.738] LOG  : Lua         , 1681675428737> 117,465> Loading: media/lua/server/Items/Distributions.lua.
+[16-04-23 20:03:48.767] LOG  : Lua         , 1681675428767> 117,495> Loading: media/lua/server/Items/FixturesOverlays.lua.
+[16-04-23 20:03:48.770] LOG  : Lua         , 1681675428770> 117,498> Loading: media/lua/server/Items/FloorStreetOverlays.lua.
+[16-04-23 20:03:48.771] LOG  : Lua         , 1681675428771> 117,499> Loading: media/lua/server/Items/FloorTileOverlays.lua.
+[16-04-23 20:03:48.772] LOG  : Lua         , 1681675428772> 117,500> Loading: media/lua/server/Items/FloorWoodOverlays.lua.
+[16-04-23 20:03:48.773] LOG  : Lua         , 1681675428773> 117,501> Loading: media/lua/server/Items/FurnitureOfficeOverlays.lua.
+[16-04-23 20:03:48.774] LOG  : Lua         , 1681675428774> 117,502> Loading: media/lua/server/Items/ItemBindingHandler.lua.
+[16-04-23 20:03:48.774] LOG  : Lua         , 1681675428774> 117,502> Loading: media/lua/server/Items/ItemPicker.lua.
+[16-04-23 20:03:48.775] LOG  : Lua         , 1681675428775> 117,503> Loading: media/lua/server/Items/ProceduralDistributions.lua.
+[16-04-23 20:03:48.799] LOG  : Lua         , 1681675428799> 117,527> Loading: media/lua/server/Items/ScriptItemInterface.lua.
+[16-04-23 20:03:48.799] LOG  : Lua         , 1681675428799> 117,527> Loading: media/lua/server/Items/SeatingOverlays.lua.
+[16-04-23 20:03:48.800] LOG  : Lua         , 1681675428800> 117,528> Loading: media/lua/server/Items/StorageOverlays.lua.
+[16-04-23 20:03:48.801] LOG  : Lua         , 1681675428801> 117,529> Loading: media/lua/server/Items/SuburbsDistributions.lua.
+[16-04-23 20:03:48.803] LOG  : Lua         , 1681675428803> 117,531> Loading: media/lua/server/Items/TileOverlays.lua.
+[16-04-23 20:03:48.808] LOG  : Lua         , 1681675428808> 117,536> Loading: media/lua/server/Items/TileOverlaysSmooth.lua.
+[16-04-23 20:03:48.810] LOG  : Lua         , 1681675428810> 117,538> Loading: media/lua/server/Items/WallsBrickOverlays.lua.
+[16-04-23 20:03:48.813] LOG  : Lua         , 1681675428813> 117,540> Loading: media/lua/server/Items/WorldFiller.lua.
+[16-04-23 20:03:48.819] LOG  : Lua         , 1681675428819> 117,547> Loading: media/lua/server/Map/MapObjects/MOBarricade.lua.
+[16-04-23 20:03:48.826] LOG  : Lua         , 1681675428826> 117,554> Loading: media/lua/server/Map/MapObjects/MOCampfire.lua.
+[16-04-23 20:03:48.827] LOG  : Lua         , 1681675428827> 117,555> Loading: media/lua/server/Map/MapObjects/MOCompost.lua.
+[16-04-23 20:03:48.828] LOG  : Lua         , 1681675428828> 117,555> Loading: media/lua/server/Map/MapObjects/MOFarming.lua.
+[16-04-23 20:03:48.829] LOG  : Lua         , 1681675428829> 117,557> Loading: media/lua/server/Map/MapObjects/MOGenerator.lua.
+[16-04-23 20:03:48.830] LOG  : Lua         , 1681675428830> 117,558> Loading: media/lua/server/Map/MapObjects/MOLampOnPillar.lua.
+[16-04-23 20:03:48.831] LOG  : Lua         , 1681675428831> 117,559> Loading: media/lua/server/Map/MapObjects/MOMetalDrum.lua.
+[16-04-23 20:03:48.832] LOG  : Lua         , 1681675428832> 117,559> Loading: media/lua/server/Map/MapObjects/MORainCollectorBarrel.lua.
+[16-04-23 20:03:48.832] LOG  : Lua         , 1681675428832> 117,560> Loading: media/lua/server/RainBarrel/BuildingObjects/RainCollectorBarrel.lua.
+[16-04-23 20:03:48.835] LOG  : Lua         , 1681675428835> 117,563> Loading: media/lua/server/Map/MapObjects/MORandomPottedPlant.lua.
+[16-04-23 20:03:48.836] LOG  : Lua         , 1681675428836> 117,564> Loading: media/lua/server/Map/MapObjects/MOTent.lua.
+[16-04-23 20:03:48.836] LOG  : Lua         , 1681675428836> 117,564> Loading: media/lua/server/Map/MapObjects/MOTrap.lua.
+[16-04-23 20:03:48.837] LOG  : Lua         , 1681675428837> 117,565> Loading: media/lua/server/Traps/TrapDefinition.lua.
+[16-04-23 20:03:48.838] LOG  : Lua         , 1681675428838> 117,566> Loading: media/lua/server/Traps/STrapSystem.lua.
+[16-04-23 20:03:48.839] LOG  : Lua         , 1681675428839> 117,566> Loading: media/lua/server/Map/MapObjects/MOWoodenWallFrame.lua.
+[16-04-23 20:03:48.839] LOG  : Lua         , 1681675428839> 117,567> Loading: media/lua/server/Map/MetaEnum.lua.
+[16-04-23 20:03:48.840] LOG  : Lua         , 1681675428840> 117,568> Loading: media/lua/server/MetalDrum/BuildingObjects/ISMetalDrum.lua.
+[16-04-23 20:03:48.843] LOG  : Lua         , 1681675428843> 117,570> Loading: media/lua/server/MetalDrum/SMetalDrumGlobalObject.lua.
+[16-04-23 20:03:48.846] LOG  : Lua         , 1681675428846> 117,574> Loading: media/lua/server/MetalDrum/SMetalDrumSystem.lua.
+[16-04-23 20:03:48.846] LOG  : Lua         , 1681675428846> 117,574> Loading: media/lua/server/metazones/metazoneHandler.lua.
+[16-04-23 20:03:48.847] LOG  : Lua         , 1681675428847> 117,575> Loading: media/lua/server/Movers/ISBaseMover.lua.
+[16-04-23 20:03:48.849] LOG  : Lua         , 1681675428849> 117,577> Loading: media/lua/server/Movers/MoverStateMachine.lua.
+[16-04-23 20:03:48.849] LOG  : Lua         , 1681675428849> 117,577> Loading: media/lua/server/Movers/MoverStates/ISBaseState.lua.
+[16-04-23 20:03:48.850] LOG  : Lua         , 1681675428850> 117,578> Loading: media/lua/server/Movers/MoverStates/MoveToState.lua.
+[16-04-23 20:03:48.850] LOG  : Lua         , 1681675428850> 117,578> Loading: media/lua/server/Movers/Rabbit.lua.
+[16-04-23 20:03:48.851] LOG  : Lua         , 1681675428851> 117,579> Loading: media/lua/server/NewSelectionSystem/GridSquareSelector.lua.
+[16-04-23 20:03:48.851] LOG  : Lua         , 1681675428851> 117,579> Loading: media/lua/server/NPCs/SadisticAIDirector/SadisticMusicDirector.lua.
+[16-04-23 20:03:48.852] LOG  : Lua         , 1681675428852> 117,580> Loading: media/lua/server/Professions/Professions.lua.
+[16-04-23 20:03:48.853] LOG  : Lua         , 1681675428853> 117,581> Loading: media/lua/server/radio/ISDynamicRadio.lua.
+[16-04-23 20:03:48.854] LOG  : Lua         , 1681675428854> 117,582> Loading: media/lua/server/radio/ISWeatherChannel.lua.
+[16-04-23 20:03:48.855] LOG  : Lua         , 1681675428855> 117,583> Loading: media/lua/server/RainBarrel/SRainBarrelGlobalObject.lua.
+[16-04-23 20:03:48.855] LOG  : Lua         , 1681675428855> 117,583> Loading: media/lua/server/RainBarrel/SRainBarrelSystem.lua.
+[16-04-23 20:03:48.856] LOG  : Lua         , 1681675428856> 117,584> Loading: media/lua/server/recipecode.lua.
+[16-04-23 20:03:48.862] LOG  : Lua         , 1681675428862> 117,590> Loading: media/lua/server/Seasons/season.lua.
+[16-04-23 20:03:48.863] LOG  : Lua         , 1681675428863> 117,591> Loading: media/lua/server/Seasons/seasonProps.lua.
+[16-04-23 20:03:48.864] LOG  : Lua         , 1681675428864> 117,592> Loading: media/lua/server/TemplateReplacers.lua.
+[16-04-23 20:03:48.865] LOG  : Lua         , 1681675428865> 117,593> Loading: media/lua/server/Traps/BuildingObjects/TrapBO.lua.
+[16-04-23 20:03:48.866] LOG  : Lua         , 1681675428866> 117,593> Loading: media/lua/server/Traps/ISUI/ISTrapMenu.lua.
+[16-04-23 20:03:48.866] LOG  : Lua         , 1681675428866> 117,594> Loading: media/lua/server/Traps/STrapGlobalObject.lua.
+[16-04-23 20:03:48.867] LOG  : Lua         , 1681675428867> 117,595> Loading: media/lua/server/Traps/trappingCommands.lua.
+[16-04-23 20:03:48.868] LOG  : Lua         , 1681675428868> 117,596> Loading: media/lua/server/Traps/TrapRecipeCode.lua.
+[16-04-23 20:03:48.869] LOG  : Lua         , 1681675428868> 117,596> Loading: media/lua/server/TurnBased/TurnBasedMain.lua.
+[16-04-23 20:03:48.869] LOG  : Lua         , 1681675428869> 117,597> Loading: media/lua/server/TutorialHelperFunctions.lua.
+[16-04-23 20:03:48.870] LOG  : Lua         , 1681675428870> 117,598> Loading: media/lua/server/Vehicles/VehicleCommands.lua.
+[16-04-23 20:03:48.873] LOG  : Lua         , 1681675428873> 117,600> Loading: media/lua/server/Vehicles/VehicleDistributions.lua.
+[16-04-23 20:03:48.878] LOG  : Lua         , 1681675428878> 117,606> Loading: media/lua/server/Vehicles/Vehicles.lua.
+[16-04-23 20:03:48.883] LOG  : Lua         , 1681675428883> 117,611> Loading: media/lua/server/XpSystem/XPSystem_SkillBook.lua.
+[16-04-23 20:03:48.883] LOG  : Lua         , 1681675428883> 117,611> Loading: media/lua/server/XpSystem/XpSystem_text.lua.
+[16-04-23 20:03:48.884] LOG  : Lua         , 1681675428884> 117,612> Loading: media/lua/server/XpSystem/XpUpdate.lua.
+[16-04-23 20:03:48.891] LOG  : General     , 1681675428891> 117,618> luaChecksum: baba5d5cd0137868287f2628ad5cb14b.
+[16-04-23 20:03:49.561] LOG  : Lua         , 1681675429557> 118,289> Loading: /home/linuxgsm/Zomboid/Server/uoasi_gorditos_SandboxVars.lua.
+[16-04-23 20:03:49.572] LOG  : General     , 1681675429572> 118,300> writing /home/linuxgsm/Zomboid/Server/uoasi_gorditos_SandboxVars.lua.
+[16-04-23 20:03:51.075] LOG  : Lua         , 1681675431039> 119,780> Loading: media/maps/Rosewood, KY/spawnpoints.lua.
+[16-04-23 20:03:52.035] LOG  : Network     , 1681675432022> 120,757> Loading world....
+[16-04-23 20:03:52.664] LOG  : General     , 1681675432657> 121,391> IsoMetaGrid.Create: begin scanning directories.
+[16-04-23 20:03:53.504] LOG  : General     , 1681675433482> 122,230> Looking in these map folders:.
+[16-04-23 20:03:53.724] LOG  : General     , 1681675433709> 122,451>     /home/linuxgsm/serverfiles/media/maps/Rosewood, KY.
+[16-04-23 20:03:53.743] LOG  : General     , 1681675433739> 122,470>     /home/linuxgsm/serverfiles/media/maps/Muldraugh, KY.
+[16-04-23 20:03:53.751] LOG  : General     , 1681675433751> 122,478> <End of map-folders list>.
+[16-04-23 20:03:54.323] LOG  : General     , 1681675434317> 123,051> IsoMetaGrid.Create: finished scanning directories in 1.631 seconds.
+[16-04-23 20:03:54.341] LOG  : General     , 1681675434341> 123,069> IsoMetaGrid.Create: begin loading.
+[16-04-23 20:03:57.099] LOG  : General     , 1681675437093> 125,826> ERROR: SuburbsDistributions["laboratory"] is broken.
+[16-04-23 20:03:57.105] LOG  : General     , 1681675437105> 125,833> ERROR: SuburbsDistributions["laboratory"] is broken.
+[16-04-23 20:03:57.105] LOG  : General     , 1681675437105> 125,833> ERROR: SuburbsDistributions["laboratory"] is broken.
+[16-04-23 20:04:28.187] LOG  : General     , 1681675468183> 156,915> tiledef: loading /home/linuxgsm/serverfiles/media/tiledefinitions.tiles.
+[16-04-23 20:04:28.239] LOG  : General     , 1681675468239> 156,967> tiledef: loading /home/linuxgsm/serverfiles/media/newtiledefinitions.tiles.
+[16-04-23 20:04:28.448] LOG  : General     , 1681675468424> 157,174> tiledef: loading /home/linuxgsm/serverfiles/media/tiledefinitions_erosion.tiles.
+[16-04-23 20:04:28.483] LOG  : General     , 1681675468483> 157,211> tiledef: loading /home/linuxgsm/serverfiles/media/tiledefinitions_apcom.tiles.
+[16-04-23 20:04:28.545] LOG  : General     , 1681675468485> 157,273> tiledef: loading /home/linuxgsm/serverfiles/media/tiledefinitions_overlays.tiles.
+[16-04-23 20:04:28.552] LOG  : General     , 1681675468552> 157,280> tiledef: loading /home/linuxgsm/serverfiles/media/tiledefinitions_noiseworks.patch.tiles.
+[16-04-23 20:04:28.643] LOG  : General     , 1681675468643> 157,371> tiledef: loading /home/linuxgsm/serverfiles/media/tiledefinitions.tiles.
+[16-04-23 20:04:29.035] LOG  : General     , 1681675468987> 157,736> tiledef: loading /home/linuxgsm/serverfiles/media/newtiledefinitions.tiles.
+[16-04-23 20:04:29.951] LOG  : General     , 1681675469896> 158,675> MOVABLES: Difference in SpriteGrid settings for members of group: (Office Desk) sheet = location_business_office_generic_01.
+[16-04-23 20:04:30.173] LOG  : General     , 1681675470151> 158,899> MOVABLES: Object has too many faces defined for group: (Office Whiteboard) sheet = location_business_office_generic_01.
+[16-04-23 20:04:32.319] LOG  : General     , 1681675472023> 160,999> MOVABLES: E face defined more than once for group: (Bar Wall Bar) sheet = location_restaurant_bar_01.
+[16-04-23 20:04:32.816] LOG  : General     , 1681675472549> 161,373> MOVABLES: S face defined more than once for group: (Bar Wall Bar) sheet = location_restaurant_bar_01.
+[16-04-23 20:04:32.921] LOG  : General     , 1681675472846> 161,641> MOVABLES: E face defined more than once for group: (Left Bar Wall Bar) sheet = location_restaurant_bar_01.
+[16-04-23 20:04:33.012] LOG  : General     , 1681675472951> 161,735> MOVABLES: S face defined more than once for group: (Left Bar Wall Bar) sheet = location_restaurant_bar_01.
+[16-04-23 20:04:33.148] LOG  : General     , 1681675473072> 161,870> MOVABLES: E face defined more than once for group: (Right Bar Wall Bar) sheet = location_restaurant_bar_01.
+[16-04-23 20:04:33.337] LOG  : General     , 1681675473203> 162,061> MOVABLES: S face defined more than once for group: (Right Bar Wall Bar) sheet = location_restaurant_bar_01.
+[16-04-23 20:04:33.693] LOG  : General     , 1681675473563> 162,418> MOVABLES: E face defined more than once for group: (Bar Tap Antique) sheet = location_restaurant_bar_01.
+[16-04-23 20:04:33.886] LOG  : General     , 1681675473812> 162,612> MOVABLES: Object has too many faces defined for group: (Bar Counter) sheet = location_restaurant_bar_01.
+[16-04-23 20:04:33.993] LOG  : General     , 1681675473932> 162,715> MOVABLES: Object has too many faces defined for group: (Bar Corner Counter) sheet = location_restaurant_bar_01.

@@ -1,0 +1,2 @@
+[10-04-23 18:31:31.120][INFO] user "Manu" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[10-04-23 18:32:18.747][INFO] user "Manu" store safety enabled=true last=true cooldown=0.0 toggle=0.0.

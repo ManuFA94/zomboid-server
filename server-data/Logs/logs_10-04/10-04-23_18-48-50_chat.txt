@@ -1,0 +1,40 @@
+[10-04-23 18:48:50.183][info] Start chat server initialization....
+[10-04-23 18:48:50.185][info] General chat has id = 0.
+[10-04-23 18:48:50.185][info] Say chat has id = 1.
+[10-04-23 18:48:50.185][info] Shout chat has id = 2.
+[10-04-23 18:48:50.185][info] Radio chat has id = 3.
+[10-04-23 18:48:50.185][info] Admin chat has id = 4.
+[10-04-23 18:48:50.185][info] Server chat has id = 5.
+[10-04-23 18:48:50.185][info] Chat server successfully initialized.
+[10-04-23 19:00:21.419][info] Player with id = '0' tries to connect.
+[10-04-23 19:00:21.419][info] Adding player '0' to chat server.
+[10-04-23 19:00:21.419][info] Player joined to default chats.
+[10-04-23 19:00:21.419][info] Player Manu(0) joined to chat server successfully.
+[10-04-23 19:00:35.366][info] Player 0 disconnecting....
+[10-04-23 19:00:35.366][info] Disconnecting player 0 finished.
+[10-04-23 19:00:35.366][info] Player 0 disconnecting....
+[10-04-23 19:00:35.366][info] Disconnecting player 0 finished.
+[10-04-23 19:01:40.296][info] Player with id = '0' tries to connect.
+[10-04-23 19:01:40.296][info] Adding player '0' to chat server.
+[10-04-23 19:01:40.296][info] Player joined to default chats.
+[10-04-23 19:01:40.296][info] Player Manu(0) joined to chat server successfully.
+[10-04-23 19:01:55.060][info] Player 0 disconnecting....
+[10-04-23 19:01:55.060][info] Disconnecting player 0 finished.
+[10-04-23 19:01:55.060][info] Player 0 disconnecting....
+[10-04-23 19:01:55.060][info] Disconnecting player 0 finished.
+[10-04-23 19:02:48.913][info] Player with id = '0' tries to connect.
+[10-04-23 19:02:48.913][info] Adding player '0' to chat server.
+[10-04-23 19:02:48.913][info] Player joined to default chats.
+[10-04-23 19:02:48.914][info] Player Manu(0) joined to chat server successfully.
+[10-04-23 19:03:02.644][info] Player 0 disconnecting....
+[10-04-23 19:03:02.644][info] Disconnecting player 0 finished.
+[10-04-23 19:03:02.644][info] Player 0 disconnecting....
+[10-04-23 19:03:02.644][info] Disconnecting player 0 finished.
+[10-04-23 19:04:58.090][info] Player with id = '0' tries to connect.
+[10-04-23 19:04:58.090][info] Adding player '0' to chat server.
+[10-04-23 19:04:58.090][info] Player joined to default chats.
+[10-04-23 19:04:58.090][info] Player Manu(0) joined to chat server successfully.
+[10-04-23 19:05:10.035][info] Player 0 disconnecting....
+[10-04-23 19:05:10.035][info] Disconnecting player 0 finished.
+[10-04-23 19:05:10.035][info] Player 0 disconnecting....
+[10-04-23 19:05:10.035][info] Disconnecting player 0 finished.

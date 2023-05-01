@@ -1,0 +1,14 @@
+[16-04-23 20:26:46.540][INFO] user "Manu" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-04-23 20:27:31.536][INFO] user "Marcos" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-04-23 20:33:53.141][INFO] user "Manu" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-04-23 20:34:38.083][INFO] user "Manu" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-04-23 20:36:39.949][INFO] user "Marcos" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-04-23 20:36:49.948][INFO] user "Manu" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-04-23 20:37:39.454][INFO] user "Marcos" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-04-23 20:38:16.203][INFO] user "Manu" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-04-23 20:42:59.532][INFO] user "Manu" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-04-23 20:43:30.794][INFO] user "Marcos" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-04-23 20:44:02.537][INFO] user "Manu" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-04-23 20:46:07.629][INFO] user "Marcos" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-04-23 21:02:59.647][INFO] user "Marcos" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-04-23 21:03:05.033][INFO] user "Manu" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.

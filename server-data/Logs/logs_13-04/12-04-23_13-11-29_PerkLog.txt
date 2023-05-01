@@ -1,0 +1,10 @@
+[12-04-23 13:11:29.222] [76561198092295074][Manu][10910,9997,0][Login][Hours Survived: 0].
+[12-04-23 13:11:29.222] [76561198092295074][Manu][10910,9997,0][Cooking=0, Fitness=5, Strength=5, Blunt=0, Axe=0, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[12-04-23 13:14:20.327] [76561198092295074][Manu][10868,9888,0][Died][Hours Survived: 2].
+[13-04-23 19:35:41.267] [76561198092295074][Manu][10862,10247,0][Login][Hours Survived: 0].
+[13-04-23 19:35:41.268] [76561198092295074][Manu][10862,10247,0][Cooking=0, Fitness=6, Strength=6, Blunt=0, Axe=1, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=1, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[13-04-23 19:49:22.325] [76561198092295074][Manu][10863,10247,0][Died][Hours Survived: 5].
+[13-04-23 20:51:23.506] [76561198092295074][Manu][10803,10073,0][Login][Hours Survived: 0].
+[13-04-23 20:51:23.506] [76561198092295074][Manu][10803,10073,0][Cooking=0, Fitness=6, Strength=6, Blunt=0, Axe=1, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=1, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[13-04-23 21:11:44.000] [76561197980741579][Lil Banano][10803,10073,0][Login][Hours Survived: 0].
+[13-04-23 21:11:44.000] [76561197980741579][Lil Banano][10803,10073,0][Cooking=0, Fitness=5, Strength=5, Blunt=0, Axe=1, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=1, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=2, PlantScavenging=2, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].

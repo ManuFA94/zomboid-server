@@ -1,0 +1,50 @@
+[14-04-23 20:37:41.079] 76561197980741579 "Lil Banano" container -1 10865,10159,0 [Base.MetalPipe].
+[14-04-23 20:37:47.059] 76561197980741579 "Lil Banano" container -1 10866,10159,0 [Base.Hat_HardHat].
+[14-04-23 20:37:50.067] 76561197980741579 "Lil Banano" container -1 10866,10159,0 [Base.Saw].
+[14-04-23 20:37:53.066] 76561197980741579 "Lil Banano" container -3 10866,10159,0 [Base.Plank, Base.ScrewsBox].
+[14-04-23 20:37:59.062] 76561197980741579 "Lil Banano" container -2 10866,10159,0 [Base.NailsBox].
+[14-04-23 20:38:02.073] 76561197980741579 "Lil Banano" container -1 10866,10159,0 [Base.Rope].
+[14-04-23 20:38:05.060] 76561197980741579 "Lil Banano" container -3 10865,10159,0 [Base.Wire].
+[14-04-23 20:38:17.059] 76561197980741579 "Lil Banano" container -3 10865,10157,0 [Base.BookMechanic2, Base.BookTrapping1, Base.BookCarpentry1].
+[14-04-23 20:38:26.056] 76561197980741579 "Lil Banano" container -2 10865,10159,0 [Base.SheetMetal, Base.SmallSheetMetal].
+[14-04-23 20:38:53.092] 76561197980741579 "Lil Banano" container +0 10880,10157,0 [Base.BookMechanic1].
+[14-04-23 20:38:54.811] 76561197980741579 "Lil Banano" container +0 10880,10157,0 [Base.BookMechanic2].
+[14-04-23 20:39:14.062] 76561197980741579 "Lil Banano" container +0 10885,10164,0 [Base.Jumper_RoundNeck, Base.Rope].
+[14-04-23 20:39:17.059] 76561197980741579 "Lil Banano" container +0 10885,10164,0 [Base.SmallSheetMetal].
+[14-04-23 20:39:20.063] 76561197980741579 "Lil Banano" container +0 10885,10164,0 [Base.SheetMetal, Base.NailsBox].
+[14-04-23 20:39:23.057] 76561197980741579 "Lil Banano" container +0 10885,10164,0 [Base.ScrewsBox, Base.Wire].
+[14-04-23 20:39:26.060] 76561197980741579 "Lil Banano" container +0 10885,10164,0 [Base.TinCanEmpty].
+[14-04-23 20:39:32.065] 76561197980741579 "Lil Banano" container +0 10885,10164,0 [Base.Hat_Ranger].
+[14-04-23 20:39:38.059] 76561197980741579 "Lil Banano" container +0 10885,10164,0 [Base.Plank, Base.BookTrapping1].
+[14-04-23 20:40:17.067] 76561197980741579 "Lil Banano" container +0 10880,10157,0 [Base.BookCarpentry1].
+[14-04-23 20:40:20.064] 76561197980741579 "Lil Banano" container -1 10880,10157,0 [Base.BookCarpentry1].
+[14-04-23 20:40:59.869] 76561197980741579 "Lil Banano" floor +1 10878,10159,1 [Base.Nails].
+[14-04-23 20:40:59.869] 76561197980741579 "Lil Banano" floor +1 10878,10159,1 [Base.Plank].
+[14-04-23 20:40:59.870] 76561197980741579 "Lil Banano" floor +1 10879,10159,1 [Base.Nails].
+[14-04-23 20:40:59.871] 76561197980741579 "Lil Banano" floor +1 10879,10159,1 [Base.UnusableWood].
+[14-04-23 20:40:59.872] 76561197980741579 "Lil Banano" floor +1 10879,10159,1 [Base.UnusableWood].
+[14-04-23 20:41:36.664] 76561197980741579 "Lil Banano" floor +1 10878,10160,1 [Base.Nails].
+[14-04-23 20:41:36.665] 76561197980741579 "Lil Banano" floor +1 10878,10160,1 [Base.Plank].
+[14-04-23 20:41:36.668] 76561197980741579 "Lil Banano" floor +1 10878,10161,1 [Base.UnusableWood].
+[14-04-23 20:41:36.669] 76561197980741579 "Lil Banano" floor +1 10878,10161,1 [Base.UnusableWood].
+[14-04-23 20:42:08.061] 76561197980741579 "Lil Banano" container +0 10885,10164,0 [Base.Saw].
+[14-04-23 20:45:53.069] 76561197980741579 "Lil Banano" container -2 10839,10248,0 [Base.Corn, Base.Salami].
+[14-04-23 20:46:02.066] 76561197980741579 "Lil Banano" container -1 10841,10248,0 [Base.CannedSardines].
+[14-04-23 20:46:47.062] 76561197980741579 "Lil Banano" container -1 10836,10249,0 [Base.Crowbar].
+[14-04-23 20:48:52.793] 76561197980741579 "Lil Banano" floor +1 10772,10225,0 [Base.MetalPipe].
+[14-04-23 20:49:32.069] 76561197980741579 "Lil Banano" container -1 10772,10211,0 [Base.Orange].
+[14-04-23 20:57:44.072] 76561197980741579 "Lil Banano" container -1 10814,10035,0 [Base.BookForaging4].
+[14-04-23 20:57:47.074] 76561197980741579 "Lil Banano" container -2 10814,10035,0 [Base.BookMechanic5, Base.BookMetalWelding2].
+[14-04-23 20:57:53.068] 76561197980741579 "Lil Banano" container -1 10815,10035,0 [Base.Apple].
+[14-04-23 20:57:59.064] 76561197980741579 "Lil Banano" container -2 10817,10035,0 [Base.CannedCornedBeef, Base.TinnedBeans].
+[14-04-23 20:58:11.075] 76561197980741579 "Lil Banano" container -1 10817,10036,0 [Base.Pan].
+[14-04-23 20:59:59.071] 76561197980741579 "Lil Banano" container -1 10811,10038,0 [Base.Jacket_Black].
+[14-04-23 21:00:02.071] 76561197980741579 "Lil Banano" container -1 10811,10038,0 [Base.Battery].
+[14-04-23 21:02:29.075] 76561197980741579 "Lil Banano" container -1 10833,10106,0 [Base.CarBattery1].
+[14-04-23 21:02:59.067] 76561197980741579 "Lil Banano" container +0 10833,10108,0 [Base.CarBattery1].
+[14-04-23 21:04:14.070] 76561197980741579 "Lil Banano" container -1 10833,10107,0 [Base.WeldingMask].
+[14-04-23 21:07:44.069] 76561197980741579 "Lil Banano" container +0 10880,10157,0 [Base.BookCarpentry1].
+[14-04-23 21:07:47.072] 76561197980741579 "Lil Banano" container +0 10880,10157,0 [Base.BookMechanic5, Base.BookMetalWelding2].
+[14-04-23 21:08:08.074] 76561197980741579 "Lil Banano" container +0 10880,10157,0 [Base.BookForaging4].
+[14-04-23 21:08:26.068] 76561197980741579 "Lil Banano" container +0 10885,10164,0 [Base.WeldingMask].
+[14-04-23 21:08:41.066] 76561197980741579 "Lil Banano" container +0 10885,10163,0 [Base.Pan].

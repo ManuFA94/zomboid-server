@@ -1,0 +1,21 @@
+[16-04-23 20:26:47.871] [76561198092295074][Manu][8327,11814,0][Login][Hours Survived: 0].
+[16-04-23 20:26:47.871] [76561198092295074][Manu][8327,11814,0][Cooking=0, Fitness=6, Strength=7, Blunt=0, Axe=0, Sprinting=0, Lightfoot=2, Nimble=2, Sneak=2, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[16-04-23 20:27:34.137] [76561198152792799][Marcos][8208,11600,0][Login][Hours Survived: 0].
+[16-04-23 20:27:34.137] [76561198152792799][Marcos][8208,11600,0][Cooking=0, Fitness=6, Strength=7, Blunt=0, Axe=0, Sprinting=0, Lightfoot=2, Nimble=2, Sneak=2, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[16-04-23 20:33:53.128] [76561198092295074][Manu][8294,12021,0][Died][Hours Survived: 2].
+[16-04-23 20:34:38.502] [76561198092295074][Manu][8074,11731,0][Created Player 1][Hours Survived: 0].
+[16-04-23 20:34:38.502] [76561198092295074][Manu][8074,11731,0][Cooking=0, Fitness=6, Strength=7, Blunt=0, Axe=0, Sprinting=0, Lightfoot=2, Nimble=2, Sneak=2, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[16-04-23 20:36:39.940] [76561198152792799][Marcos][8219,11560,0][Died][Hours Survived: 3].
+[16-04-23 20:36:49.947] [76561198092295074][Manu][8069,11732,0][Died][Hours Survived: 0].
+[16-04-23 20:37:39.970] [76561198152792799][Marcos][8246,11670,0][Created Player 1][Hours Survived: 0].
+[16-04-23 20:37:39.972] [76561198152792799][Marcos][8246,11670,0][Cooking=0, Fitness=6, Strength=7, Blunt=0, Axe=0, Sprinting=0, Lightfoot=2, Nimble=2, Sneak=2, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[16-04-23 20:38:16.602] [76561198092295074][Manu][8418,11686,0][Created Player 1][Hours Survived: 0].
+[16-04-23 20:38:16.602] [76561198092295074][Manu][8418,11686,0][Cooking=0, Fitness=6, Strength=7, Blunt=0, Axe=0, Sprinting=0, Lightfoot=2, Nimble=2, Sneak=2, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[16-04-23 20:42:59.532] [76561198092295074][Manu][8418,11660,0][Died][Hours Survived: 1].
+[16-04-23 20:43:30.790] [76561198152792799][Marcos][8206,11629,0][Died][Hours Survived: 2].
+[16-04-23 20:44:02.858] [76561198092295074][Manu][8327,11814,0][Created Player 1][Hours Survived: 0].
+[16-04-23 20:44:02.859] [76561198092295074][Manu][8327,11814,0][Cooking=0, Fitness=6, Strength=7, Blunt=0, Axe=0, Sprinting=0, Lightfoot=2, Nimble=2, Sneak=2, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[16-04-23 20:46:08.117] [76561198152792799][Marcos][8074,11731,0][Created Player 1][Hours Survived: 0].
+[16-04-23 20:46:08.117] [76561198152792799][Marcos][8074,11731,0][Cooking=0, Fitness=6, Strength=7, Blunt=0, Axe=0, Sprinting=0, Lightfoot=2, Nimble=2, Sneak=2, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[16-04-23 21:02:59.557] [76561198152792799][Marcos][8127,11644,0][Died][Hours Survived: 6].
+[16-04-23 21:03:05.033] [76561198092295074][Manu][8126,11643,0][Died][Hours Survived: 7].

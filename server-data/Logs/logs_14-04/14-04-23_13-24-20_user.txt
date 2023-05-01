@@ -1,0 +1,16 @@
+[14-04-23 13:24:20.722] added connection index=0 192.168.1.190.
+[14-04-23 13:24:21.767] 76561198092295074 "Manu" attempting to join.
+[14-04-23 13:24:21.768] 76561198092295074 "Manu" allowed to join.
+[14-04-23 13:24:40.695] 76561198092295074 "Manu" attempting to join used queue.
+[14-04-23 13:24:54.677] player Manu loading time was: 13307 ms.
+[14-04-23 13:24:59.719] 76561198092295074 "Manu" fully connected (10879,10158,0).
+[14-04-23 13:25:13.557] 76561198092295074 "Manu" removed connection index=0.
+[14-04-23 13:25:13.569] 76561198092295074 "Manu" disconnected player (10879,10158,0).
+[14-04-23 13:25:58.847] added connection index=0 192.168.1.190.
+[14-04-23 13:25:59.946] 76561198092295074 "Manu" attempting to join.
+[14-04-23 13:25:59.946] 76561198092295074 "Manu" allowed to join.
+[14-04-23 13:26:18.193] 76561198092295074 "Manu" attempting to join used queue.
+[14-04-23 13:26:26.970] player Manu loading time was: 8290 ms.
+[14-04-23 13:26:28.482] 76561198092295074 "Manu" fully connected (10879,10158,0).
+[14-04-23 13:27:27.580] 76561198092295074 "Manu" removed connection index=0.
+[14-04-23 13:27:27.590] 76561198092295074 "Manu" disconnected player (10883,10164,0).

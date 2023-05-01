@@ -1,0 +1,38 @@
+[14-04-23 17:41:47.954][info] Start chat server initialization....
+[14-04-23 17:41:47.957][info] General chat has id = 0.
+[14-04-23 17:41:47.957][info] Say chat has id = 1.
+[14-04-23 17:41:47.957][info] Shout chat has id = 2.
+[14-04-23 17:41:47.957][info] Radio chat has id = 3.
+[14-04-23 17:41:47.957][info] Admin chat has id = 4.
+[14-04-23 17:41:47.957][info] Server chat has id = 5.
+[14-04-23 17:41:47.957][info] Chat server successfully initialized.
+[14-04-23 17:48:19.347][info] Player with id = '0' tries to connect.
+[14-04-23 17:48:19.347][info] Adding player '0' to chat server.
+[14-04-23 17:48:19.348][info] Player joined to default chats.
+[14-04-23 17:48:19.348][info] Player joined admin chat.
+[14-04-23 17:48:19.348][info] Player Manu(0) joined to chat server successfully.
+[14-04-23 17:49:39.005][info] Player 0 disconnecting....
+[14-04-23 17:49:39.005][info] Disconnecting player 0 finished.
+[14-04-23 17:49:39.005][info] Player 0 disconnecting....
+[14-04-23 17:49:39.005][info] Disconnecting player 0 finished.
+[14-04-23 17:53:04.393][info] Player with id = '0' tries to connect.
+[14-04-23 17:53:04.393][info] Adding player '0' to chat server.
+[14-04-23 17:53:04.393][info] Player joined to default chats.
+[14-04-23 17:53:04.393][info] Player joined admin chat.
+[14-04-23 17:53:04.394][info] Player Manu(0) joined to chat server successfully.
+[14-04-23 17:55:00.220][info] Player 0 disconnecting....
+[14-04-23 17:55:00.220][info] Disconnecting player 0 finished.
+[14-04-23 17:55:00.220][info] Player 0 disconnecting....
+[14-04-23 17:55:00.220][info] Disconnecting player 0 finished.
+[14-04-23 20:36:17.033][info] Player with id = '0' tries to connect.
+[14-04-23 20:36:17.033][info] Adding player '0' to chat server.
+[14-04-23 20:36:17.034][info] Player joined to default chats.
+[14-04-23 20:36:17.034][info] Player Lil Banano(0) joined to chat server successfully.
+[14-04-23 20:41:15.113][info] Got message:ChatMessage{chat=Local, author='Lil Banano', text='¡EH TÚ!'}.
+[14-04-23 20:41:15.114][info] Message ChatMessage{chat=Local, author='Lil Banano', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[14-04-23 20:47:17.178][info] Got message:ChatMessage{chat=Local, author='Lil Banano', text='¡POR AQUÍ!'}.
+[14-04-23 20:47:17.178][info] Message ChatMessage{chat=Local, author='Lil Banano', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[14-04-23 21:10:14.059][info] Player 0 disconnecting....
+[14-04-23 21:10:14.059][info] Disconnecting player 0 finished.
+[14-04-23 21:10:14.060][info] Player 0 disconnecting....
+[14-04-23 21:10:14.060][info] Disconnecting player 0 finished.

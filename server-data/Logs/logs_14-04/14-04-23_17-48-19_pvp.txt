@@ -1,0 +1,6 @@
+[14-04-23 17:48:19.349][INFO] user "Manu" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-04-23 17:49:39.005][INFO] user "Manu" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-04-23 17:53:04.394][INFO] user "Manu" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-04-23 17:55:00.220][INFO] user "Manu" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-04-23 20:36:17.035][INFO] user "Lil Banano" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-04-23 21:10:14.059][INFO] user "Lil Banano" store safety enabled=true last=true cooldown=0.0 toggle=0.0.

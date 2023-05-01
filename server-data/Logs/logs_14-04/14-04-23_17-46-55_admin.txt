@@ -1,0 +1,3 @@
+[14-04-23 17:46:55.449] admin granted 32 access level on Manu.
+[14-04-23 17:49:05.497] Manu disabled godmode on Manu.
+[14-04-23 17:49:06.342] Manu enabled godmode on Manu.

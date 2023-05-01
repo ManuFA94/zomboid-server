@@ -1,0 +1,57 @@
+[12-04-23 08:35:42.151][info] Start chat server initialization....
+[12-04-23 08:35:42.155][info] General chat has id = 0.
+[12-04-23 08:35:42.155][info] Say chat has id = 1.
+[12-04-23 08:35:42.155][info] Shout chat has id = 2.
+[12-04-23 08:35:42.155][info] Radio chat has id = 3.
+[12-04-23 08:35:42.155][info] Admin chat has id = 4.
+[12-04-23 08:35:42.155][info] Server chat has id = 5.
+[12-04-23 08:35:42.155][info] Chat server successfully initialized.
+[12-04-23 13:11:28.199][info] Player with id = '0' tries to connect.
+[12-04-23 13:11:28.199][info] Adding player '0' to chat server.
+[12-04-23 13:11:28.200][info] Player joined to default chats.
+[12-04-23 13:11:28.200][info] Player Manu(0) joined to chat server successfully.
+[12-04-23 13:14:20.340][info] Player 0 disconnecting....
+[12-04-23 13:14:20.340][info] Disconnecting player 0 finished.
+[12-04-23 13:14:36.159][info] Player 0 disconnecting....
+[12-04-23 13:14:36.159][info] Disconnecting player 0 finished.
+[12-04-23 13:14:36.159][info] Player 0 disconnecting....
+[12-04-23 13:14:36.159][info] Disconnecting player 0 finished.
+[13-04-23 19:35:39.597][info] Player with id = '0' tries to connect.
+[13-04-23 19:35:39.597][info] Adding player '0' to chat server.
+[13-04-23 19:35:39.597][info] Player joined to default chats.
+[13-04-23 19:35:39.597][info] Player Manu(0) joined to chat server successfully.
+[13-04-23 19:49:22.325][info] Player 0 disconnecting....
+[13-04-23 19:49:22.325][info] Disconnecting player 0 finished.
+[13-04-23 20:02:03.161][info] Player 0 disconnecting....
+[13-04-23 20:02:03.161][info] Disconnecting player 0 finished.
+[13-04-23 20:02:03.161][info] Player 0 disconnecting....
+[13-04-23 20:02:03.161][info] Disconnecting player 0 finished.
+[13-04-23 20:51:23.072][info] Player with id = '0' tries to connect.
+[13-04-23 20:51:23.072][info] Adding player '0' to chat server.
+[13-04-23 20:51:23.072][info] Player joined to default chats.
+[13-04-23 20:51:23.072][info] Player Manu(0) joined to chat server successfully.
+[13-04-23 21:11:43.754][info] Player with id = '4' tries to connect.
+[13-04-23 21:11:43.754][info] Adding player '4' to chat server.
+[13-04-23 21:11:43.754][info] Player joined to default chats.
+[13-04-23 21:11:43.755][info] Player Lil Banano(4) joined to chat server successfully.
+[13-04-23 21:38:13.562][info] Got message:ChatMessage{chat=Local, author='Lil Banano', text='¡EH TÚ!'}.
+[13-04-23 21:38:13.563][info] Message ChatMessage{chat=Local, author='Lil Banano', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[13-04-23 22:03:04.169][info] Player 0 disconnecting....
+[13-04-23 22:03:04.169][info] Disconnecting player 0 finished.
+[13-04-23 22:03:04.169][info] Player 0 disconnecting....
+[13-04-23 22:03:04.169][info] Disconnecting player 0 finished.
+[13-04-23 22:10:01.979][info] Creating faction chat 'Apextosos'.
+[13-04-23 22:10:01.985][info] Faction chat 'Apextosos' created.
+[13-04-23 22:10:01.985][info] Start syncing faction chat 'Apextosos'....
+[13-04-23 22:10:01.985][info] These members were added: 'Lil Banano', . These members were removed: .
+[13-04-23 22:10:01.985][info] Syncing faction chat 'Apextosos' finished.
+[13-04-23 22:10:06.948][info] Start syncing faction chat 'Apextosos'....
+[13-04-23 22:10:06.948][info] These members were added: . These members were removed: .
+[13-04-23 22:10:06.948][info] Syncing faction chat 'Apextosos' finished.
+[13-04-23 22:10:07.085][info] Start syncing faction chat 'Apextosos'....
+[13-04-23 22:10:07.085][info] These members were added: . These members were removed: .
+[13-04-23 22:10:07.085][info] Syncing faction chat 'Apextosos' finished.
+[13-04-23 22:22:11.491][info] Player 4 disconnecting....
+[13-04-23 22:22:11.491][info] Disconnecting player 4 finished.
+[13-04-23 22:22:11.491][info] Player 4 disconnecting....
+[13-04-23 22:22:11.491][info] Disconnecting player 4 finished.
